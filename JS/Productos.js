@@ -569,7 +569,7 @@ function aplicarFiltrosDesdeURL() {
     const iconoCategoria = obtenerIconoCategoria(categoria);
 
     const enlaceDetalle =
-      `./detalle.html?id=${encodeURIComponent(id)}`;
+      `./Detalle.html?id=${encodeURIComponent(id)}`;
 
     tarjeta.innerHTML = `
       <div class="product-tags">
