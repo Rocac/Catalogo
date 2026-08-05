@@ -1077,7 +1077,7 @@
       "embalaje": "Caja de cartón corrugado"
     },
     "imagenes": [
-      "codo 63 x 90 SP.png",
+      "Codo 63 x 90 SP.png",
       "PLANO CODO X 90 SP.png"
     ],
     "catalogo": "agua",
@@ -1126,7 +1126,7 @@
       "embalaje": "Caja de cartón corrugado"
     },
     "imagenes": [
-      "codo 75 x 90 SP.png",
+      "Codo 75 x 90 SP.png",
       "PLANO CODO X 90 SP.png"
     ],
     "catalogo": "agua",
@@ -1224,7 +1224,7 @@
       "embalaje": "Caja de cartón corrugado"
     },
     "imagenes": [
-      "codo 110 x 90 SP.png",
+      "Codo 110 x 90 SP.png",
       "PLANO CODO X 90 SP.png"
     ],
     "catalogo": "agua",
@@ -1967,7 +1967,7 @@
     "serie": "Reducción SP",
     "diametro": "2\" x 1 1/2\"",
     "descripcion": "Permite conectar tuberías o accesorios de diferentes diámetros manteniendo la continuidad de la instalación.",
-    "imagen": "RED 2 X 1_2.png",
+    "imagen": "RED 2 X 1 1_2.png",
     "normas": [
       "Norma técnica por confirmar con la ficha oficial"
     ],
@@ -2001,7 +2001,7 @@
       "embalaje": "Caja de cartón corrugado"
     },
     "imagenes": [
-      "RED 2 X 1_2 SP.png",
+      "RED 2 X 1 1_2 SP.png",
       "PLANO REDUCCIONES.png"
     ],
     "catalogo": "agua",
@@ -2978,7 +2978,7 @@
     "serie": "Tapón CR hembra",
     "diametro": "1\"",
     "descripcion": "Permite sellar conexiones roscadas macho en sistemas de agua mediante un cierre seguro.",
-    "imagen": "TAPON 1 H- CR.png",
+    "imagen": "Tapon 1 H- CR.png",
     "normas": [
       "Norma técnica por confirmar"
     ],
@@ -3010,7 +3010,7 @@
       "embalaje": "Caja de cartón corrugado"
     },
     "imagenes": [
-      "TAPON 1 H- CR.png",
+      "Tapon 1 H- CR.png",
       "PLANO TAPON CR SP.png"
     ],
     "catalogo": "agua"
@@ -3943,7 +3943,7 @@
     "serie": "UPR inyectada",
     "diametro": "1 1/4\"",
     "descripcion": "Facilita la transición entre una conexión roscada y una tubería PVC en sistemas de agua.",
-    "imagen": "UPR 1 1_4.png",
+    "imagen": "upr 1 1_4.png",
     "normas": [
       "Norma técnica por confirmar"
     ],
@@ -3977,7 +3977,7 @@
       "embalaje": "Caja de cartón corrugado"
     },
     "imagenes": [
-      "UPR 1 1_4.png",
+      "upr 1 1_4.png",
       "PLANO UPR.png"
     ],
     "catalogo": "agua"
@@ -3992,7 +3992,7 @@
     "serie": "UPR inyectada",
     "diametro": "1 1/2\"",
     "descripcion": "Facilita la transición entre una conexión roscada y una tubería PVC en sistemas de agua.",
-    "imagen": "UPR 1 1_2.png",
+    "imagen": "upr 1 1_2.png",
     "normas": [
       "Norma técnica por confirmar"
     ],
@@ -4026,7 +4026,7 @@
       "embalaje": "Caja de cartón corrugado"
     },
     "imagenes": [
-      "UPR 1 1_2.png",
+      "upr 1 1_2.png",
       "PLANO UPR.png"
     ],
     "catalogo": "agua"
@@ -4676,7 +4676,7 @@
     "diametro": "54 mm",
     "serie": "CODO DS",
     "descripcion": "Permite cambios de dirección de 90° en sistemas de desagüe con uniones seguras...",
-    "imagen": "codo 2 x 90.png",
+    "imagen": "Codo 2 x 90.png",
     "normas": [
       "Norma técnica por confirmar"
     ],
@@ -4713,7 +4713,7 @@
       "embalaje": "Caja de cartón corrugado"
     },
     "imagenes": [
-      "codo 2 x 90.png",
+      "Codo 2 x 90.png",
       "PLANO CODO X 90 DS.png"
     ],
     "catalogo": "desague"
@@ -6527,7 +6527,7 @@
     "serie": "Codo UF",
     "diametro": "110 mm",
     "descripcion": "Permite cambios de dirección de 45° en redes de alcantarillado con uniones herméticas mediante sistema UF.",
-    "imagen": "CODO 110 x 45.png",
+    "imagen": "Codo 110 x 45.png",
     "normas": [
       "Norma técnica por confirmar"
     ],
@@ -6564,7 +6564,7 @@
       "embalaje": "Saco"
     },
     "imagenes": [
-      "CODO 110 x 45.png",
+      "Codo  110 x 45.png",
       "PLANO CODO UF 45.png"
     ],
     "catalogo": "alcantarillado"
@@ -6579,7 +6579,7 @@
     "serie": "Codo UF",
     "diametro": "160 mm",
     "descripcion": "Permite cambios de dirección de 45° en redes de alcantarillado con uniones herméticas mediante sistema UF.",
-    "imagen": "CODO 160 x 45.png",
+    "imagen": "CODO 160 X 45.png",
     "normas": [
       "Norma técnica por confirmar"
     ],
@@ -6616,7 +6616,7 @@
       "embalaje": "Saco"
     },
     "imagenes": [
-      "CODO 160 x 45.png",
+      "CODO 160 X 45.png",
       "PLANO CODO UF 45.png"
     ],
     "catalogo": "alcantarillado"
@@ -6631,7 +6631,7 @@
     "serie": "Codo UF",
     "diametro": "160 mm",
     "descripcion": "Permite cambios de dirección de 90° en redes de alcantarillado con uniones herméticas mediante sistema UF.",
-    "imagen": "CODO 160 x 90.png",
+    "imagen": "CODO 160 X 90.png",
     "normas": [
       "Norma técnica por confirmar"
     ],
@@ -6666,7 +6666,7 @@
       "embalaje": "Saco"
     },
     "imagenes": [
-      "CODO 160 x 90.png",
+      "CODO 160 X 90.png",
       "PLANO CODO UF 90.png"
     ],
     "catalogo": "alcantarillado"
@@ -6681,7 +6681,7 @@
     "serie": "Silla Tee UF",
     "diametro": "160 mm",
     "descripcion": "Permite realizar derivaciones en redes de alcantarillado con una conexión eficiente mediante sistema UF.",
-    "imagen": "SILLA TEE 160 x 110.png",
+    "imagen": "SILLA TEE 160 X 110.png",
     "normas": [
       "Norma técnica por confirmar"
     ],
@@ -6720,7 +6720,7 @@
       "embalaje": "Saco"
     },
     "imagenes": [
-      "SILLA TEE 160 x 110.png",
+      "SILLA TEE 160 X 110.png",
       "PLANO SILLA TEE.png"
     ],
     "catalogo": "alcantarillado"
@@ -6735,7 +6735,7 @@
     "serie": "Silla Tee UF",
     "diametro": "160 mm",
     "descripcion": "Permite realizar derivaciones en redes de alcantarillado con una conexión eficiente mediante sistema UF.",
-    "imagen": "SILLA TEE 160 x 160.png",
+    "imagen": "SILLA TEE 160 X 160.png",
     "normas": [
       "Norma técnica por confirmar"
     ],
@@ -6774,7 +6774,7 @@
       "embalaje": "Saco"
     },
     "imagenes": [
-      "SILLA TEE 160 x 160.png",
+      "SILLA TEE 160 X 160.png",
       "PLANO SILLA TEE.png"
     ],
     "catalogo": "alcantarillado"
@@ -6789,7 +6789,7 @@
     "serie": "Silla Tee UF",
     "diametro": "200 mm",
     "descripcion": "Permite realizar derivaciones en redes de alcantarillado con una conexión eficiente mediante sistema UF.",
-    "imagen": "SILLA TEE 200 x 110.png",
+    "imagen": "SILLA TEE 200 X 110.png",
     "normas": [
       "Norma técnica por confirmar"
     ],
@@ -6828,7 +6828,7 @@
       "embalaje": "Saco"
     },
     "imagenes": [
-      "SILLA TEE 200 x 110.png",
+      "SILLA TEE 200 X 110.png",
       "PLANO SILLA TEE.png"
     ],
     "catalogo": "alcantarillado"
@@ -6843,7 +6843,7 @@
     "serie": "Silla Tee UF",
     "diametro": "200 mm",
     "descripcion": "Permite realizar derivaciones en redes de alcantarillado con una conexión eficiente mediante sistema UF.",
-    "imagen": "SILLA TEE 200 x 160.png",
+    "imagen": "SILLA TEE 200 X 160.png",
     "normas": [
       "Norma técnica por confirmar"
     ],
@@ -6882,7 +6882,7 @@
       "embalaje": "Saco"
     },
     "imagenes": [
-      "SILLA TEE 200 x 160.png",
+      "SILLA TEE 200 X 160.png",
       "PLANO SILLA TEE.png"
     ],
     "catalogo": "alcantarillado"
@@ -6897,7 +6897,7 @@
     "serie": "Silla Tee UF",
     "diametro": "250 mm",
     "descripcion": "Permite realizar derivaciones en redes de alcantarillado con una conexión eficiente mediante sistema UF.",
-    "imagen": "SILLA TEE 250 x 160.png",
+    "imagen": "SILLA TEE 250 X 160.png",
     "normas": [
       "Norma técnica por confirmar"
     ],
@@ -6936,7 +6936,7 @@
       "embalaje": "Saco"
     },
     "imagenes": [
-      "SILLA TEE 250 x 160.png",
+      "SILLA TEE 250 X 160.png",
       "PLANO SILLA TEE.png"
     ],
     "catalogo": "alcantarillado"
@@ -6951,7 +6951,7 @@
     "serie": "Silla Yee UF",
     "diametro": "200 mm",
     "descripcion": "Permite realizar derivaciones en redes de alcantarillado con una conexión inclinada mediante sistema UF.",
-    "imagen": "SILLA YEE 200 x 160.png",
+    "imagen": "SILLA YEE 200 X 160.png",
     "normas": [
       "Norma técnica por confirmar"
     ],
