@@ -1,0 +1,376 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1.0"
+  >
+
+  <title>Catálogo PVC | Atipax</title>
+
+  <link
+    rel="stylesheet"
+    href="./Style/Catalogo.css"
+  >
+</head>
+
+<body>
+
+  <!-- =========================
+       ENCABEZADO
+  ========================== -->
+
+  <header class="header">
+
+    <a href="./index.html" class="logo-link">
+      <img
+        src="./img/logo taiplast.png"
+        alt="Taiplast"
+        class="logo"
+      >
+    </a>
+
+    <button
+      type="button"
+      class="menu-btn"
+      id="menuBtn"
+      aria-label="Abrir menú"
+      aria-expanded="false"
+    >
+      ☰
+    </button>
+
+  </header>
+
+
+  <!-- =========================
+       PORTADA
+  ========================== -->
+
+  <section class="hero">
+
+    <div class="hero-content">
+
+      <span class="hero-tag">
+        ✦ CATÁLOGO DIGITAL 2026
+      </span>
+
+      <h1>
+        Soluciones industriales
+        <strong>en tuberías y accesorios</strong>
+      </h1>
+
+      <p>
+        El catálogo oficial de Grupo Atipax. Explora líneas
+        inyectadas y termoformadas con fichas técnicas,
+        normas y cotización directa.
+      </p>
+
+      <!-- BUSCADOR -->
+
+      <form
+        class="search-box"
+        action="./productos.html"
+        method="get"
+      >
+
+        <input
+          type="search"
+          name="buscar"
+          placeholder="Buscar por nombre, código, diámetro..."
+          aria-label="Buscar productos"
+        >
+
+        <button type="submit">
+          Buscar
+        </button>
+
+      </form>
+
+      <div class="hero-actions">
+
+        <a
+          href="#categorias"
+          class="btn-primary"
+        >
+          Explorar catálogo →
+        </a>
+
+        <a
+          href="#"
+          class="btn-outline"
+        >
+          Cotizar
+        </a>
+
+      </div>
+
+    </div>
+
+  </section>
+
+
+  <!-- =========================
+       CATEGORÍAS
+  ========================== -->
+
+  <main
+    id="categorias"
+    class="content"
+  >
+
+    <span class="section-label">
+      NUESTRAS LÍNEAS
+    </span>
+
+    <h2>
+      Categorías del catálogo
+    </h2>
+
+    <p class="intro">
+      Dos grandes líneas de producción: inyectados y
+      termoformados, organizadas por aplicación.
+    </p>
+
+
+    <!-- =========================
+         INYECTADOS
+    ========================== -->
+
+    <section class="category-section">
+
+      <div class="group-title">
+        <span></span>
+        <h3>INYECTADOS</h3>
+      </div>
+
+      <div class="categories-grid">
+
+        <!-- AGUA INYECTADOS -->
+
+        <article class="category-card">
+
+          <div class="category-icon icon-water">
+            ♠
+          </div>
+
+          <h3>
+            Agua
+          </h3>
+
+          <p>
+            Conexiones y accesorios para redes de agua
+            potable a presión.
+          </p>
+
+          <a
+            href="./productos.html?categoria=agua-inyectados"
+            class="category-link"
+          >
+            Ver productos →
+          </a>
+
+        </article>
+
+
+        <!-- ELÉCTRICO INYECTADOS -->
+
+        <article class="category-card">
+
+          <div class="category-icon icon-electric">
+            ⚡
+          </div>
+
+          <h3>
+            Eléctrico
+          </h3>
+
+          <p>
+            Cajas, curvas y accesorios para instalaciones
+            eléctricas.
+          </p>
+
+          <a
+            href="./productos.html?categoria=electrico-inyectados"
+            class="category-link"
+          >
+            Ver productos →
+          </a>
+
+        </article>
+
+
+        <!-- ALCANTARILLADO -->
+
+        <article class="category-card">
+
+          <div class="category-icon icon-sewer">
+            ⊙
+          </div>
+
+          <h3>
+            Alcantarillado
+          </h3>
+
+          <p>
+            Accesorios de gran diámetro para redes de
+            alcantarillado.
+          </p>
+
+          <a
+            href="./productos.html?categoria=alcantarillado"
+            class="category-link"
+          >
+            Ver productos →
+          </a>
+
+        </article>
+
+
+        <!-- DESAGÜE -->
+
+        <article class="category-card">
+
+          <div class="category-icon icon-drainage">
+            ≋
+          </div>
+
+          <h3>
+            Desagüe
+          </h3>
+
+          <p>
+            Sistemas de desagüe sanitario y pluvial.
+          </p>
+
+          <a
+            href="./productos.html?categoria=desague"
+            class="category-link"
+          >
+            Ver productos →
+          </a>
+
+        </article>
+
+      </div>
+
+    </section>
+
+
+    <!-- =========================
+         TERMOFORMADOS
+    ========================== -->
+
+    <section class="category-section">
+
+      <div class="group-title">
+        <span></span>
+        <h3>TERMOFORMADOS</h3>
+      </div>
+
+      <div class="categories-grid">
+
+        <!-- ELÉCTRICO TERMOFORMADOS -->
+
+        <article class="category-card">
+
+          <div class="category-icon icon-electric-formed">
+            ⚡
+          </div>
+
+          <h3>
+            Eléctrico
+          </h3>
+
+          <p>
+            Ductos termoformados para canalización eléctrica.
+          </p>
+
+          <a
+            href="./productos.html?categoria=electrico-termoformados"
+            class="category-link"
+          >
+            Ver productos →
+          </a>
+
+        </article>
+
+
+        <!-- AGUA TERMOFORMADOS -->
+
+        <article class="category-card">
+
+          <div class="category-icon icon-water-formed">
+            ♠
+          </div>
+
+          <h3>
+            Agua
+          </h3>
+
+          <p>
+            Tuberías termoformadas para conducción de agua.
+          </p>
+
+          <a
+            href="./productos.html?categoria=agua-termoformados"
+            class="category-link"
+          >
+            Ver productos →
+          </a>
+
+        </article>
+
+      </div>
+
+    </section>
+
+  </main>
+
+
+  <!-- =========================
+       MENÚ LATERAL
+  ========================== -->
+
+  <div
+    class="menu-overlay"
+    id="menuOverlay"
+    aria-hidden="true"
+  ></div>
+
+  <nav
+    class="side-menu"
+    id="sideMenu"
+    aria-hidden="true"
+  >
+
+    <button
+      type="button"
+      class="close-menu"
+      id="closeMenu"
+      aria-label="Cerrar menú"
+    >
+      ×
+    </button>
+
+    <a href="./index.html">
+      Inicio
+    </a>
+
+    <a href="#categorias">
+      Categorías
+    </a>
+
+    <a href="./productos.html">
+      Productos
+    </a>
+
+  </nav>
+
+
+  <script src="./JS/Catalogo.js"></script>
+
+</body>
+</html>

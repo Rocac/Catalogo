@@ -1,0 +1,160 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background: #f8fafc;
+  color: #111827;
+}
+
+.page {
+  width: 100%;
+  min-height: 100vh;
+  padding: 54px 24px 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.hero {
+  text-align: center;
+  max-width: 340px;
+}
+
+.logo {
+  width: 145px;
+  margin-bottom: 16px;
+}
+
+h1 {
+  font-size: 26px;
+  line-height: 1.08;
+  font-weight: 800;
+  margin-bottom: 14px;
+}
+
+h1 span {
+  color: #0157d0;
+}
+
+.hero p {
+  font-size: 14px;
+  line-height: 1.7;
+  color: #6b7280;
+}
+
+.menu {
+  width: 100%;
+  max-width: 345px;
+  margin-top: 38px;
+  display: grid;
+  gap: 14px;
+}
+
+.card {
+  background: white;
+  border: 1px solid #e5e7eb;
+  border-radius: 19px;
+  padding: 22px 18px;
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  text-decoration: none;
+  color: inherit;
+  box-shadow: 0 8px 22px rgba(15, 23, 42, 0.08);
+}
+
+.card:hover {
+  transform: translateY(-2px);
+}
+
+.icon {
+  width: 43px;
+  height: 43px;
+  border-radius: 14px;
+  display: grid;
+  place-items: center;
+  color: white;
+  font-size: 23px;
+  flex-shrink: 0;
+  font-weight: bold;
+}
+
+.instagram .icon {
+  background: linear-gradient(135deg, #ff004f, #ff8a00);
+}
+
+.tiktok .icon {
+  background: #111827;
+}
+
+.catalogo .icon {
+  background: #0157d0;
+}
+
+.ferreteria .icon {
+  background: #ff123c;
+}
+
+.whatsapp .icon {
+  background: #25d366;
+}
+
+.ubicacion .icon {
+  background: #ef4438;
+}
+
+.certificados .icon{
+    background:#16a34a;
+    color:#fff;
+}
+
+.card h2 {
+  font-size: 16px;
+  margin-bottom: 6px;
+}
+
+.card p {
+  font-size: 13px;
+  line-height: 1.35;
+  color: #6b7280;
+}
+
+footer {
+  margin-top: auto;
+  padding-top: 72px;
+  font-size: 11px;
+  color: #6b7280;
+  text-align: center;
+}
+
+/* Computadora */
+@media (min-width: 768px) {
+  .page {
+    padding-top: 70px;
+  }
+
+  .hero {
+    max-width: 520px;
+  }
+
+  .logo {
+    width: 170px;
+  }
+
+  h1 {
+    font-size: 34px;
+  }
+
+  .hero p {
+    font-size: 16px;
+  }
+
+  .menu {
+    max-width: 760px;
+    grid-template-columns: repeat(2, 1fr);
+  }
+}

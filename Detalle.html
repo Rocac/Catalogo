@@ -1,0 +1,351 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1.0"
+  >
+
+  <title>Ficha técnica | Atipax</title>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+  <link
+    href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap"
+    rel="stylesheet"
+  >
+
+  <link rel="stylesheet" href="./Style/detalle.css">
+</head>
+
+<body>
+
+  <!-- HEADER -->
+  <header class="detail-header">
+
+    <a
+      href="./index.html"
+      class="detail-brand"
+      aria-label="Ir al inicio"
+    >
+      <img
+        src="./img/logo taiplast.png"
+        alt="Atipax Grupo"
+        class="detail-logo"
+      >
+    </a>
+
+    <button
+      type="button"
+      class="detail-menu-button"
+      id="menuBtn"
+      aria-label="Abrir menú"
+      aria-expanded="false"
+    >
+      <span></span>
+      <span></span>
+      <span></span>
+    </button>
+
+  </header>
+
+  <!-- MENÚ LATERAL -->
+  <div
+    class="menu-overlay"
+    id="menuOverlay"
+    aria-hidden="true"
+  ></div>
+
+  <aside
+    class="side-menu"
+    id="sideMenu"
+    aria-hidden="true"
+  >
+
+    <button
+      type="button"
+      class="close-detail"
+      id="stopStickyGallery"
+      aria-label="Dejar de fijar la imagen"
+      title="Dejar de seguir"
+    >
+      ×
+    </button>
+
+    <nav class="side-menu-nav">
+      <a href="./index.html">Inicio</a>
+      <a href="./catalogo.html">Categorías</a>
+      <a href="./productos.html">Productos</a>
+    </nav>
+
+  </aside>
+
+  <!-- BREADCRUMB -->
+  <nav
+    class="detail-breadcrumbs"
+    aria-label="Ruta de navegación"
+  >
+
+    <a href="./index.html">Inicio</a>
+    <span>›</span>
+
+    <a href="./catalogo.html">Categorías</a>
+    <span>›</span>
+
+    <a href="./productos.html">Productos</a>
+    <span>›</span>
+
+    <span id="breadcrumbProduct">
+      Ficha técnica
+    </span>
+
+  </nav>
+
+  <!-- CARGANDO -->
+  <div
+    id="loadingMessage"
+    class="page-message"
+  >
+    Cargando ficha técnica...
+  </div>
+
+  <!-- ERROR -->
+  <div
+    id="errorMessage"
+    class="page-message error-message hidden"
+  >
+    <p>No se encontró el producto solicitado.</p>
+
+    <a href="./productos.html">
+      Volver a productos
+    </a>
+  </div>
+
+  <!-- CONTENIDO PRINCIPAL -->
+  <main
+    id="productDetail"
+    class="detail-page hidden"
+  >
+
+    <!-- GALERÍA -->
+    <section class="detail-gallery">
+
+      <div class="main-image-card" id="stickyMainImage">
+
+        <button
+          type="button"
+          class="close-detail"
+          id="stopStickyGallery"
+          aria-label="Dejar de seguir la imagen"
+        >
+          ×
+        </button>
+
+        <img
+          id="mainProductImage"
+          src=""
+          alt=""
+          class="main-product-image"
+        >
+
+      </div>
+
+      <div
+        id="thumbnailList"
+        class="thumbnail-list"
+      ></div>
+
+    </section>
+
+    <!-- INFORMACIÓN -->
+    <section class="detail-product-info">
+
+      <div class="detail-product-top">
+
+        <span
+          id="categoryTag"
+          class="detail-category-tag"
+        ></span>
+
+        <span
+          id="productCode"
+          class="detail-product-code"
+        ></span>
+
+      </div>
+
+      <h1
+        id="productTitle"
+        class="detail-product-title"
+      ></h1>
+
+      <div
+        id="productMeta"
+        class="detail-product-meta"
+      ></div>
+
+      <p
+        id="productDescription"
+        class="detail-product-description"
+      ></p>
+
+      <!-- NORMAS -->
+      <div
+        id="standardsSection"
+        class="detail-standards"
+      >
+
+        <h2>NORMAS</h2>
+
+        <div
+          id="standardsList"
+          class="detail-standard-list"
+        ></div>
+
+      </div>
+
+      <!-- ACCIONES -->
+      <div class="detail-actions">
+
+        <a
+          id="quoteButton"
+          href="#"
+          class="action-primary"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <span class="action-icon">◯</span>
+          Solicitar cotización
+        </a>
+
+        <div class="action-row">
+
+          <a
+            id="whatsappButton"
+            href="#"
+            class="action-secondary"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <span class="action-icon">◯</span>
+            WhatsApp
+          </a>
+
+          <button
+            id="shareButton"
+            type="button"
+            class="action-secondary"
+          >
+            <span class="action-icon">↗</span>
+            Compartir
+          </button>
+
+        </div>
+
+        <button
+          id="downloadButton"
+          type="button"
+          class="action-secondary action-download"
+        >
+          <span class="action-icon">▧</span>
+          Descargar ficha (PDF)
+        </button>
+
+      </div>
+
+    </section>
+
+    <!-- BENEFICIOS -->
+    <section
+      id="benefitsSection"
+      class="detail-section"
+    >
+
+      <h2 class="detail-section-title">
+        <span class="section-icon">♢</span>
+        Beneficios
+      </h2>
+
+      <div
+        id="benefitsGrid"
+        class="benefits-list"
+      ></div>
+
+    </section>
+
+    <!-- APLICACIONES -->
+    <section
+      id="applicationsSection"
+      class="detail-section"
+    >
+
+      <h2 class="detail-section-title">
+        <span class="section-icon">≋</span>
+        Aplicaciones
+      </h2>
+
+      <ul
+        id="applicationsList"
+        class="applications-list"
+      ></ul>
+
+    </section>
+
+    <!-- TABLA TÉCNICA -->
+    <section class="detail-section" id="technicalSection">
+  <div class="section-heading">
+    <span class="section-icon">⌕</span>
+    <h2>Tabla técnica</h2>
+  </div>
+
+  <div class="technical-table-card">
+
+    <div
+      class="technical-table-scroll"
+      id="technicalTableScroll"
+    >
+      <table class="technical-table">
+        <thead id="technicalTableHead"></thead>
+        <tbody id="technicalTableBody"></tbody>
+      </table>
+    </div>
+
+    <div
+      class="technical-scroll-hint"
+      id="technicalScrollHint"
+    >
+      <span>Desliza para ver más</span>
+      <span class="technical-scroll-arrow">→</span>
+    </div>
+
+
+  </div>
+</section>
+
+    <!-- LOGÍSTICA -->
+    <section
+      id="logisticsSection"
+      class="detail-section detail-logistics-section"
+    >
+
+      <h2 class="detail-section-title">
+        <span class="section-icon">◇</span>
+        Información logística
+      </h2>
+
+      <div
+        id="logisticsGrid"
+        class="logistics-list"
+      ></div>
+
+    </section>
+
+  </main>
+
+  <script src="./JS/detalle.js"></script>
+
+</body>
+</html>

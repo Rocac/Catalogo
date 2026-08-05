@@ -1,0 +1,255 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+body{
+    font-family:'Inter',sans-serif;
+    background:#f5f7fb;
+    color:#1d2433;
+}
+
+/* ================= HEADER ================= */
+
+.topbar{
+    height:72px;
+    background:#fff;
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    padding:0 28px;
+    box-shadow:0 2px 12px rgba(0,0,0,.05);
+}
+
+.logo{
+    height:50px;
+}
+
+.volver{
+    text-decoration:none;
+    color:#2563eb;
+    font-weight:600;
+    transition:.25s;
+}
+
+.volver:hover{
+    color:#0b63f6;
+}
+
+/* ================= CONTENEDOR ================= */
+
+.container{
+    width:min(1100px,92%);
+    margin:auto;
+    padding:30px 0 70px;
+}
+
+/* ================= HERO ================= */
+
+.hero{
+    max-width:560px;
+    margin:20px auto 45px;
+    text-align:center;
+}
+
+.hero-logo{
+    width:105px;
+    height:auto;
+    margin-bottom:20px;
+}
+
+.hero-title{
+    display:inline-flex;
+    align-items:center;
+    gap:12px;
+    margin-bottom:18px;
+}
+
+.hero-title .line{
+    width:42px;
+    height:3px;
+    background:#ff3131;
+    border-radius:10px;
+}
+
+.hero-title h2{
+    color:#0b63f6;
+    font-size:30px;
+    font-weight:800;
+    letter-spacing:.4px;
+}
+
+.hero p{
+    color:#6b7280;
+    font-size:16px;
+    line-height:1.8;
+}
+
+/* ================= CERTIFICADOS ================= */
+
+.cards{
+
+    display:grid;
+    grid-template-columns:repeat(auto-fit,minmax(290px,1fr));
+    gap:35px;
+
+}
+
+.certificate-card{
+
+    background:#fff;
+    border-radius:18px;
+    overflow:hidden;
+    box-shadow:0 12px 28px rgba(0,0,0,.08);
+    transition:.30s;
+
+}
+
+.certificate-card:hover{
+
+    transform:translateY(-8px);
+    box-shadow:0 20px 40px rgba(0,0,0,.12);
+
+}
+
+.certificate-card img{
+
+    width:100%;
+    height:430px;
+    object-fit:contain;
+    padding:28px;
+    background:#fafafa;
+
+}
+
+.certificate-info{
+
+    padding:24px;
+
+}
+
+.certificate-info h2{
+
+    font-size:22px;
+    margin-bottom:10px;
+
+}
+
+.certificate-info p{
+
+    color:#6b7280;
+    line-height:1.6;
+    margin-bottom:18px;
+
+}
+
+.certificate-info a{
+
+    display:inline-block;
+    text-decoration:none;
+    background:#0b63f6;
+    color:#fff;
+    padding:12px 24px;
+    border-radius:10px;
+    font-weight:600;
+    transition:.25s;
+
+}
+
+.certificate-info a:hover{
+
+    background:#094fc4;
+
+}
+
+/* ================= RESPONSIVE ================= */
+
+@media (max-width:768px){
+
+    .topbar{
+
+        height:65px;
+        padding:0 18px;
+
+    }
+
+    .logo{
+
+        height:42px;
+
+    }
+
+    .container{
+
+        padding:20px 0 50px;
+
+    }
+
+    .hero{
+
+        margin:10px auto 30px;
+        padding:0 18px;
+
+    }
+
+    .hero-logo{
+
+        width:90px;
+        margin-bottom:16px;
+
+    }
+
+    .hero-title{
+
+        gap:10px;
+        margin-bottom:15px;
+
+    }
+
+    .hero-title .line{
+
+        width:30px;
+
+    }
+
+    .hero-title h2{
+
+        font-size:24px;
+
+    }
+
+    .hero p{
+
+        font-size:15px;
+        line-height:1.7;
+
+    }
+
+    .cards{
+
+        grid-template-columns:1fr;
+        gap:25px;
+
+    }
+
+    .certificate-card img{
+
+        height:340px;
+        padding:18px;
+
+    }
+
+    .certificate-info{
+
+        padding:18px;
+
+    }
+
+    .certificate-info h2{
+
+        font-size:19px;
+
+    }
+
+}

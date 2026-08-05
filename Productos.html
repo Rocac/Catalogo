@@ -1,0 +1,319 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1.0"
+  />
+
+  <meta
+    name="description"
+    content="Catálogo completo de productos PVC de Grupo Atipax."
+  />
+
+  <title>Productos | Grupo Atipax</title>
+
+  <link
+    rel="stylesheet"
+    href="Style/Productos.css"
+  />
+</head>
+
+<body>
+
+  <!-- =========================
+       HEADER
+  ========================== -->
+  <header class="header">
+
+    <a
+      href="catalogo.html"
+      class="logo-link"
+      aria-label="Volver al catálogo"
+    >
+      <img
+        src="img/logo taiplast.png"
+        alt="Logo de Grupo Atipax"
+        class="logo"
+      />
+    </a>
+
+    <button
+      class="menu-btn"
+      id="menuBtn"
+      type="button"
+      aria-label="Abrir menú"
+      aria-controls="sideMenu"
+      aria-expanded="false"
+    >
+      ☰
+    </button>
+
+  </header>
+
+
+  <!-- =========================
+       ENCABEZADO
+  ========================== -->
+  <section class="page-heading">
+
+    <span class="section-label">
+      <span aria-hidden="true"></span>
+      CATÁLOGO COMPLETO
+    </span>
+
+    <h1>Todos los productos</h1>
+
+    <p>
+      Filtra por categoría, tipo, diámetro o norma para encontrar
+      el producto exacto.
+    </p>
+
+  </section>
+
+
+  <!-- =========================
+       CONTENIDO PRINCIPAL
+  ========================== -->
+  <main class="filters-container">
+
+    <!-- FORMULARIO DE FILTROS -->
+    <form
+      class="filters-form"
+      id="filtersForm"
+    >
+
+      <!-- BUSCADOR -->
+      <div class="search-field">
+
+        <span
+          class="search-icon"
+          aria-hidden="true"
+        >
+          ⌕
+        </span>
+
+        <label
+          for="productSearch"
+          class="sr-only"
+        >
+          Buscar 
+        </label>
+
+        <input
+          type="search"
+          id="productSearch"
+          name="productSearch"
+          autocomplete="off"
+        />
+
+      </div>
+
+
+      <!-- CATEGORÍA -->
+      <div class="filter-group">
+
+        <label for="categoryFilter">
+          Categoría
+        </label>
+
+        <select id="categoryFilter">
+          <option value="">Todas las categorías</option>
+          <option value="agua-inyectados">Agua · INY</option>
+          <option value="electrico-inyectados">Eléctrico · INY</option>
+          <option value="alcantarillado">Alcantarillado · INY</option>
+          <option value="desague">Desagüe · INY</option>
+          <option value="electrico-termoformados">
+            Eléctrico · Termoformados
+          </option>
+          <option value="agua-termoformados">
+            Agua · Termoformados
+          </option>
+        </select>
+
+      </div>
+
+
+      <!-- TIPO -->
+      <div class="filter-group">
+
+        <label for="typeFilter">
+          Tipo
+        </label>
+
+        <select id="typeFilter">
+          <option value="">Todos</option>
+          <option value="codo">Codo</option>
+          <option value="tee">Tee</option>
+          <option value="tee-sanitaria">Tee sanitaria</option>
+          <option value="yee">Yee</option>
+          <option value="union">Unión</option>
+          <option value="reduccion">Reducción</option>
+          <option value="tapon">Tapón</option>
+          <option value="sombrero-de-ventilacion">
+            Sombrero de ventilación
+          </option>
+        </select>
+
+      </div>
+
+
+
+      <!-- NORMA -->
+      <div class="filter-group">
+
+        <label for="standardFilter">
+          Norma
+        </label>
+
+        <select
+          id="standardFilter"
+          name="standardFilter"
+        >
+          <option value="">
+            Todos
+          </option>
+
+          <option value="ntp">
+            NTP
+          </option>
+
+          <option value="iso">
+            ISO
+          </option>
+
+          <option value="astm">
+            ASTM
+          </option>
+
+          <option value="npt">
+            NPT
+          </option>
+        </select>
+
+      </div>
+
+
+      <!-- BOTÓN -->
+      <button
+        class="filter-button"
+        id="searchProductsButton"
+        type="submit"
+      >
+        Buscar productos
+      </button>
+
+    </form>
+
+
+    <!-- =========================
+         RESULTADOS
+    ========================== -->
+    <section
+      class="results-section"
+      id="resultsSection"
+      aria-live="polite"
+    >
+
+
+
+      <!-- CONTADOR -->
+      <p
+        id="resultsText"
+        class="results-text"
+        hidden
+      ></p>
+
+
+      <!-- SIN RESULTADOS -->
+      <div
+        id="noResultsMessage"
+        class="no-results-message"
+        hidden
+      >
+        <h2>No encontramos productos</h2>
+
+        <p>
+          Prueba cambiando el nombre del producto o seleccionando
+          otros filtros.
+        </p>
+      </div>
+
+
+      <!-- ERROR -->
+      <div
+        id="errorMessage"
+        class="error-message"
+        hidden
+      >
+        <h2>No se pudieron cargar los productos</h2>
+
+        <p>
+          Verifica que el archivo
+          <strong>productos.json</strong>
+          se encuentre correctamente conectado.
+        </p>
+      </div>
+
+
+      <!-- TARJETAS DE PRODUCTOS -->
+      <div
+        class="products-grid"
+        id="productsGrid"
+      ></div>
+
+    </section>
+
+  </main>
+
+
+  <!-- =========================
+       MENÚ LATERAL
+  ========================== -->
+
+  <div
+    class="menu-overlay"
+    id="menuOverlay"
+    aria-hidden="true"
+  ></div>
+
+  <nav
+    class="side-menu"
+    id="sideMenu"
+    aria-label="Menú principal"
+    aria-hidden="true"
+  >
+
+    <button
+      class="close-menu"
+      id="closeMenu"
+      type="button"
+      aria-label="Cerrar menú"
+    >
+      ×
+    </button>
+
+    <a href="index.html">
+      Inicio
+    </a>
+
+    <a href="catalogo.html#categorias">
+      Categoría
+    </a>
+
+    <a
+      href="productos.html"
+      aria-current="page"
+    >
+      Producto
+    </a>
+
+  </nav>
+
+
+  <script src="JS/Productos.js"></script>
+
+</body>
+</html>
