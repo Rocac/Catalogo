@@ -1044,7 +1044,7 @@
     "serie": "Codo SP",
     "diametro": "63 mm",
     "descripcion": "Permite realizar cambios de dirección en la instalación mediante una conexión segura, resistente y de fácil montaje.",
-    "imagen": "codo 63 x 90 SP.png",
+    "imagen": "Codo 63 x 90 SP.png",
     "normas": [
       "Norma técnica por confirmar con la ficha oficial"
     ],
@@ -1093,7 +1093,7 @@
     "serie": "Codo SP",
     "diametro": "75 mm",
     "descripcion": "Permite realizar cambios de dirección en la instalación mediante una conexión segura, resistente y de fácil montaje.",
-    "imagen": "codo 75 x 90 SP.png",
+    "imagen": "Codo 75 x 90 SP.png",
     "normas": [
       "Norma técnica por confirmar con la ficha oficial"
     ],
@@ -1191,7 +1191,7 @@
     "serie": "Codo SP",
     "diametro": "110 mm",
     "descripcion": "Permite realizar cambios de dirección en la instalación mediante una conexión segura, resistente y de fácil montaje.",
-    "imagen": "codo 110 x 90 SP.png",
+    "imagen": "Codo 110 x 90 SP.png",
     "normas": [
       "Norma técnica por confirmar con la ficha oficial"
     ],
@@ -7005,7 +7005,7 @@
     "serie": "Silla tee inyectada",
     "diametro": "250 x 110 mm",
     "descripcion": "Accesorio para sistemas de alcantarillado, diseñado para lograr una instalación segura, resistente y confiable.",
-    "imagen": "SILLA TEE 250 x 160.png",
+    "imagen": "SILLA TEE 250 X 160.png",
     "normas": [
       "Norma técnica por confirmar"
     ],
@@ -7044,7 +7044,7 @@
       "embalaje": "Saco"
     },
     "imagenes": [
-      "SILLA TEE 250 x 160.png",
+      "SILLA TEE 250 X 160.png",
       "PLANO SILLA TEE.png"
     ],
     "catalogo": "alcantarillado"

@@ -30,7 +30,9 @@ const stickyMainImage =
   document.getElementById("stickyMainImage");
 
 const stopStickyGallery =
-  document.getElementById("stopStickyGallery");
+  stickyMainImage
+    ? stickyMainImage.querySelector("#stopStickyGallery")
+    : null;
 
 const applicationsSection =
   document.getElementById("applicationsSection");
@@ -824,30 +826,56 @@ function renderizarLogistica(logistica) {
 }
 
 function configurarAcciones(producto) {
-  const numeroWhatsApp = "51999999999";
+  const numeroWhatsApp = "51955568179";
 
-  const mensaje =
-    `Hola, deseo solicitar una cotización de ` +
-    `${producto.nombre}. ` +
-    `${producto.codigo ? `Código: ${producto.codigo}. ` : ""}` +
-    `Ficha: ${window.location.href}`;
+  const nombreProducto =
+    producto && producto.nombre
+      ? producto.nombre.trim()
+      : "producto Taiplast";
 
-  const enlaceWhatsApp =
+  const codigoProducto =
+    producto && producto.codigo
+      ? String(producto.codigo).trim()
+      : "";
+
+  const mensajeCotizacion =
+    `Hola, quiero cotizar el ${nombreProducto} TAIPLAST.` +
+    `${codigoProducto ? ` Código: ${codigoProducto}.` : ""}`;
+
+  const mensajeInformacion =
+    `Hola, quisiera recibir información sobre el ` +
+    `${nombreProducto} TAIPLAST.` +
+    `${codigoProducto ? ` Código: ${codigoProducto}.` : ""}`;
+
+  const enlaceCotizacion =
     `https://wa.me/${numeroWhatsApp}` +
-    `?text=${encodeURIComponent(mensaje)}`;
+    `?text=${encodeURIComponent(mensajeCotizacion)}`;
 
-  quoteButton.href = enlaceWhatsApp;
-  whatsappButton.href = enlaceWhatsApp;
+  const enlaceInformacion =
+    `https://wa.me/${numeroWhatsApp}` +
+    `?text=${encodeURIComponent(mensajeInformacion)}`;
 
-  shareButton.addEventListener(
-    "click",
-    compartirProducto
-  );
+  if (quoteButton) {
+    quoteButton.href = enlaceCotizacion;
+  }
 
-  downloadButton.addEventListener(
-    "click",
-    () => window.print()
-  );
+  if (whatsappButton) {
+    whatsappButton.href = enlaceInformacion;
+  }
+
+  if (shareButton) {
+    shareButton.addEventListener(
+      "click",
+      compartirProducto
+    );
+  }
+
+  if (downloadButton) {
+    downloadButton.addEventListener(
+      "click",
+      () => window.print()
+    );
+  }
 }
 
 async function compartirProducto() {
