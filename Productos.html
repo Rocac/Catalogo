@@ -87,28 +87,23 @@
 
       <!-- BUSCADOR -->
       <div class="search-field">
-
-        <span
-          class="search-icon"
-          aria-hidden="true"
-        >
-          ⌕
-        </span>
-
-        <label
-          for="productSearch"
-          class="sr-only"
-        >
-          Buscar 
-        </label>
+        <span class="search-icon">⌕</span>
 
         <input
-          type="search"
+          type="text"
           id="productSearch"
-          name="productSearch"
+          placeholder="Buscar"
           autocomplete="off"
-        />
+        >
 
+        <button
+          type="button"
+          class="clear-search"
+          id="clearSearch"
+          aria-label="Limpiar búsqueda"
+        >
+          ×
+        </button>
       </div>
 
 

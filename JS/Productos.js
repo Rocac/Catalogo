@@ -23,6 +23,8 @@ document.addEventListener("DOMContentLoaded", () => {
   const closeMenu = document.getElementById("closeMenu");
   const sideMenu = document.getElementById("sideMenu");
   const menuOverlay = document.getElementById("menuOverlay");
+  const clearSearch =
+  document.getElementById("clearSearch");
 
   /* =========================================
      VALIDAR ELEMENTOS
@@ -286,6 +288,25 @@ function aplicarFiltrosDesdeURL() {
      FILTRO DE CATEGORÍA
   ========================================= */
 
+  productSearch.addEventListener("input", () => {
+  if (!clearSearch) {
+    return;
+  }
+
+  clearSearch.classList.toggle(
+    "visible",
+    productSearch.value.trim() !== ""
+  );
+});
+
+if (clearSearch) {
+  clearSearch.addEventListener("click", () => {
+    productSearch.value = "";
+    clearSearch.classList.remove("visible");
+    productSearch.focus();
+  });
+}
+  
   function coincideCategoria(producto, categoriaSeleccionada) {
     if (!categoriaSeleccionada) {
       return true;

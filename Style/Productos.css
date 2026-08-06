@@ -124,8 +124,9 @@ img {
 }
 
 .search-field {
+  position: relative;
   height: 44px;
-  padding: 0 13px;
+  padding: 0 42px 0 13px;
   display: flex;
   align-items: center;
   gap: 11px;
@@ -152,6 +153,37 @@ img {
 
 .search-field input::placeholder {
   color: #9ca3af;
+}
+
+/* Botón X para limpiar la búsqueda */
+.clear-search {
+  position: absolute;
+  top: 50%;
+  right: 11px;
+  transform: translateY(-50%);
+  width: 26px;
+  height: 26px;
+  padding: 0;
+  display: none;
+  align-items: center;
+  justify-content: center;
+  border: none;
+  border-radius: 50%;
+  outline: none;
+  color: var(--blue);
+  background: transparent;
+  font-size: 21px;
+  font-weight: 500;
+  line-height: 1;
+  cursor: pointer;
+}
+
+.clear-search:hover {
+  background: #eef5ff;
+}
+
+.clear-search.visible {
+  display: flex;
 }
 
 .filter-group {
@@ -181,11 +213,16 @@ img {
 
 .filter-button {
   height: 46px;
+  min-width: 132px;
+  padding: 0 15px;
   border: none;
   border-radius: 15px;
   background: var(--blue);
   color: white;
+  font-size: 13px;
   font-weight: 800;
+  line-height: 1.1;
+  white-space: nowrap;
   cursor: pointer;
 }
 
@@ -594,6 +631,12 @@ img {
     padding-right: 14px;
   }
 
+  .filter-button {
+    width: 100%;
+    min-width: 0;
+    font-size: 13px;
+  }
+
   .products-grid {
     gap: 18px;
     align-items: start;
@@ -705,8 +748,20 @@ img {
   }
 
   .filters-form {
-    grid-template-columns: 2fr 1fr 1fr 1fr auto;
+    grid-template-columns:
+      minmax(250px, 1.8fr)
+      minmax(145px, 1fr)
+      minmax(145px, 1fr)
+      minmax(145px, 1fr)
+      minmax(132px, auto);
+    column-gap: 18px;
+    row-gap: 20px;
     align-items: end;
+  }
+
+  .filter-button {
+    font-size: 13px;
+    padding: 0 14px;
   }
 
   .search-field,
