@@ -720,12 +720,29 @@ img {
 }
 
 @media (max-width: 600px) {
+  .technical-table-card {
+    width: 100%;
+  }
+
   .technical-table-scroll {
+    width: 100%;
+    max-width: 100%;
+    overflow-x: auto;
     touch-action: pan-x;
   }
 
+  /* Con pocas columnas, ocupa todo el ancho del celular */
   .technical-table {
+    width: 100%;
+    min-width: 100%;
+    table-layout: fixed;
+  }
+
+  /* Con 5 o más columnas, crece y permite scroll horizontal */
+  .technical-table:has(th:nth-child(5)) {
+    width: max-content;
     min-width: max-content;
+    table-layout: auto;
   }
 
   .technical-scroll-hint {
@@ -738,6 +755,12 @@ img {
 
   .technical-table th,
   .technical-table td {
+    min-width: 0;
+    padding: 10px 8px;
+  }
+
+  .technical-table:has(th:nth-child(5)) th,
+  .technical-table:has(th:nth-child(5)) td {
     min-width: 76px;
     padding: 10px 12px;
   }

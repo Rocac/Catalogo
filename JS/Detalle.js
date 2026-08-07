@@ -826,7 +826,7 @@ function renderizarLogistica(logistica) {
 }
 
 function configurarAcciones(producto) {
-  const numeroWhatsApp = "51955568179";
+  const numeroWhatsApp = "51998244444";
 
   const nombreProducto =
     producto && producto.nombre
