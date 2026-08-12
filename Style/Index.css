@@ -54,6 +54,13 @@ h1 span {
   gap: 14px;
 }
 
+.descargar-catalogo .icon {
+    background: #0B63F6;
+    color: white;
+    font-size: 25px;
+    font-weight: 700;
+}
+
 .card {
   background: white;
   border: 1px solid #e5e7eb;
