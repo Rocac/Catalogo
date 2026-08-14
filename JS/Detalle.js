@@ -332,7 +332,7 @@ function configurarSeguimientoEstable() {
 
 function renderizarProducto(producto) {
   document.title =
-    `${producto.nombre || "Producto"} | Atipax`;
+    `${producto.nombre || "Producto"} | Grupo Taiplast`;
 
   breadcrumbProduct.textContent =
     producto.nombre || "Ficha técnica";
@@ -495,7 +495,7 @@ function cambiarImagenPrincipal(imagen, nombreProducto) {
     construirRutaImagen(imagen);
 
   mainProductImage.alt =
-    nombreProducto || "Producto Atipax";
+    nombreProducto || "Producto Taiplast";
 
   mainProductImage.onerror = () => {
     mainProductImage.onerror = null;
