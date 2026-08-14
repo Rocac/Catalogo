@@ -1,7 +1,7 @@
 [
   {
     "id": 107,
-    "codigo": "",
+    "codigo": "103057",
     "nombre": "Bushing 3/4\" x 1/2\"",
     "categoria": "Agua",
     "linea": "IN",
@@ -51,7 +51,7 @@
   },
   {
     "id": 108,
-    "codigo": "",
+    "codigo": "103055",
     "nombre": "Bushing 1/2\" x 1/2\" x 35 mm",
     "categoria": "Agua",
     "linea": "IN",
@@ -101,7 +101,7 @@
   },
   {
     "id": 109,
-    "codigo": "",
+    "codigo": "103056",
     "nombre": "Bushing 1/2\" x 1/2\" x 45 mm",
     "categoria": "Agua",
     "linea": "IN",
@@ -340,7 +340,7 @@
     },
     "imagenes": [
       "CODO 1_2 X 90 SP.png",
-      "PLANO CODO 1_2, 3_4 Y 1 X 90 SP.png"
+      "PLANO CODO 1_2, 3_4 y 1 X 90 SP.png"
     ],
     "catalogo": "agua"
   },
@@ -391,7 +391,7 @@
     },
     "imagenes": [
       "CODO 3_4 X 90 SP.png",
-      "PLANO CODO 1_2, 3_4 Y 1 X 90 SP.png"
+      "PLANO CODO 1_2, 3_4 y 1 X 90 SP.png"
     ],
     "catalogo": "agua"
   },
@@ -442,7 +442,7 @@
     },
     "imagenes": [
       "CODO 1 X 90 SP.png",
-      "PLANO CODO 1_2, 3_4 Y 1 X 90 SP.png"
+      "PLANO CODO 1_2, 3_4 y 1 X 90 SP.png"
     ],
     "catalogo": "agua"
   },
@@ -497,7 +497,7 @@
   },
   {
     "id": 96,
-    "codigo": "",
+    "codigo": "103075",
     "nombre": "Codo 1 1/2\" x 90° SP",
     "categoria": "Agua",
     "linea": "IN",
@@ -545,7 +545,7 @@
   },
   {
     "id": 97,
-    "codigo": "",
+    "codigo": "103095",
     "nombre": "Codo 1 1/2\" x 45° SP",
     "categoria": "Agua",
     "linea": "IN",
@@ -593,7 +593,7 @@
   },
   {
     "id": 98,
-    "codigo": "",
+    "codigo": "103076",
     "nombre": "Codo 2\" x 90° SP",
     "categoria": "Agua",
     "linea": "IN",
@@ -641,7 +641,7 @@
   },
   {
     "id": 99,
-    "codigo": "",
+    "codigo": "103096",
     "nombre": "Codo 2\" x 45° SP",
     "categoria": "Agua",
     "linea": "IN",
@@ -689,7 +689,7 @@
   },
   {
     "id": 100,
-    "codigo": "",
+    "codigo": "103049",
     "nombre": "Codo 1/2\" x 90° CR",
     "categoria": "Agua",
     "linea": "IN",
@@ -740,7 +740,7 @@
   },
   {
     "id": 101,
-    "codigo": "",
+    "codigo": "103050",
     "nombre": "Codo 3/4\" x 90° CR",
     "categoria": "Agua",
     "linea": "IN",
@@ -791,7 +791,7 @@
   },
   {
     "id": 102,
-    "codigo": "",
+    "codigo": "103051",
     "nombre": "Codo 1\" x 90° CR",
     "categoria": "Agua",
     "linea": "IN",
@@ -842,7 +842,7 @@
   },
   {
     "id": 103,
-    "codigo": "",
+    "codigo": "103008",
     "nombre": "Codo 1 1/4\" x 90° CR",
     "categoria": "Agua",
     "linea": "IN",
@@ -889,7 +889,7 @@
   },
   {
     "id": 104,
-    "codigo": "",
+    "codigo": "103012",
     "nombre": "Codo mixto inyectado 1/2\" x 90° SCH80",
     "categoria": "Agua",
     "linea": "IN",
@@ -938,7 +938,7 @@
   },
   {
     "id": 105,
-    "codigo": "",
+    "codigo": "103013",
     "nombre": "Codo mixto inyectado 3/4\" x 90° SCH80",
     "categoria": "Agua",
     "linea": "IN",
@@ -987,7 +987,7 @@
   },
   {
     "id": 106,
-    "codigo": "",
+    "codigo": "103014",
     "nombre": "Codo mixto inyectado 1\" x 90° SCH80",
     "categoria": "Agua",
     "linea": "IN",
@@ -1036,7 +1036,7 @@
   },
   {
     "id": 150,
-    "codigo": "SIN CÓDIGO",
+    "codigo": "103105",
     "nombre": "Codo 63 mm x 90° SP",
     "categoria": "Agua",
     "linea": "IN",
@@ -1085,7 +1085,7 @@
   },
   {
     "id": 151,
-    "codigo": "SIN CÓDIGO",
+    "codigo": "103106",
     "nombre": "Codo 75 mm x 90° SP",
     "categoria": "Agua",
     "linea": "IN",
@@ -1134,7 +1134,7 @@
   },
   {
     "id": 152,
-    "codigo": "SIN CÓDIGO",
+    "codigo": "103107",
     "nombre": "Codo 110 mm x 45° SP",
     "categoria": "Agua",
     "linea": "IN",
@@ -1183,7 +1183,7 @@
   },
   {
     "id": 153,
-    "codigo": "SIN CÓDIGO",
+    "codigo": "103108",
     "nombre": "Codo 110 mm x 90° SP",
     "categoria": "Agua",
     "linea": "IN",
@@ -1232,7 +1232,7 @@
   },
   {
     "id": 136,
-    "codigo": "",
+    "codigo": "103091",
     "nombre": "Conexión para manguera 1/2\" x 1/2\"",
     "categoria": "Agua",
     "linea": "IN",
@@ -1279,7 +1279,7 @@
   },
   {
     "id": 137,
-    "codigo": "",
+    "codigo": "103092",
     "nombre": "Conexión para manguera 1/2\" x 5/8\"",
     "categoria": "Agua",
     "linea": "IN",
@@ -1326,7 +1326,7 @@
   },
   {
     "id": 138,
-    "codigo": "",
+    "codigo": "103093",
     "nombre": "Conexión para manguera 3/4\" x 3/4\"",
     "categoria": "Agua",
     "linea": "IN",
@@ -1373,7 +1373,7 @@
   },
   {
     "id": 139,
-    "codigo": "",
+    "codigo": "103094",
     "nombre": "Conexión para manguera 1\" x 1\"",
     "categoria": "Agua",
     "linea": "IN",
@@ -1420,7 +1420,7 @@
   },
   {
     "id": 134,
-    "codigo": "",
+    "codigo": "103068",
     "nombre": "Conexión para tanque 1 1/2\"",
     "categoria": "Agua",
     "linea": "IN",
@@ -1465,7 +1465,7 @@
   },
   {
     "id": 135,
-    "codigo": "",
+    "codigo": "103069",
     "nombre": "Conexión para tanque 2\"",
     "categoria": "Agua",
     "linea": "IN",
@@ -1510,7 +1510,7 @@
   },
   {
     "id": 140,
-    "codigo": "",
+    "codigo": "103060",
     "nombre": "Niple inyectado 1/2\" x 1\" CR",
     "categoria": "Agua",
     "linea": "IN",
@@ -1559,7 +1559,7 @@
   },
   {
     "id": 167,
-    "codigo": "SIN CÓDIGO",
+    "codigo": "103061",
     "nombre": "Niple inyectado 1/2\" x 1 1/2\" CR",
     "categoria": "Agua",
     "linea": "IN",
@@ -1609,7 +1609,7 @@
   },
   {
     "id": 168,
-    "codigo": "SIN CÓDIGO",
+    "codigo": "103062",
     "nombre": "Niple inyectado 1/2\" x 2\" CR",
     "categoria": "Agua",
     "linea": "IN",
@@ -1659,7 +1659,7 @@
   },
   {
     "id": 169,
-    "codigo": "SIN CÓDIGO",
+    "codigo": "103063",
     "nombre": "Niple inyectado 1/2\" x 2 1/2\" CR",
     "categoria": "Agua",
     "linea": "IN",
@@ -1709,7 +1709,7 @@
   },
   {
     "id": 170,
-    "codigo": "SIN CÓDIGO",
+    "codigo": "103064",
     "nombre": "Niple inyectado 1/2\" x 3\" CR",
     "categoria": "Agua",
     "linea": "IN",
@@ -1759,7 +1759,7 @@
   },
   {
     "id": 171,
-    "codigo": "SIN CÓDIGO",
+    "codigo": "103065",
     "nombre": "Niple inyectado 1/2\" x 4\" CR",
     "categoria": "Agua",
     "linea": "IN",
@@ -1809,7 +1809,7 @@
   },
   {
     "id": 147,
-    "codigo": "SIN CÓDIGO",
+    "codigo": "103002",
     "nombre": "Reducción 1\" x 3/4\" camp-camp",
     "categoria": "Agua",
     "linea": "IN",
@@ -1859,7 +1859,7 @@
   },
   {
     "id": 148,
-    "codigo": "SIN CÓDIGO",
+    "codigo": "103003",
     "nombre": "Reducción 1\" x 1/2\" camp-camp",
     "categoria": "Agua",
     "linea": "IN",
@@ -1909,7 +1909,7 @@
   },
   {
     "id": 149,
-    "codigo": "SIN CÓDIGO",
+    "codigo": "103001",
     "nombre": "Reducción 3/4\" x 1/2\" camp-camp",
     "categoria": "Agua",
     "linea": "IN",
@@ -1959,7 +1959,7 @@
   },
   {
     "id": 172,
-    "codigo": "SIN CÓDIGO",
+    "codigo": "103104",
     "nombre": "Reducción 2\" x 1 1/2\" SP",
     "categoria": "Agua",
     "linea": "IN",
@@ -2001,7 +2001,7 @@
       "embalaje": "Caja de cartón corrugado"
     },
     "imagenes": [
-      "RED 2 X 1 1_2 SP.png",
+      "RED 2 X 1 1_2.png",
       "PLANO REDUCCIONES.png"
     ],
     "catalogo": "agua",
@@ -2009,7 +2009,7 @@
   },
   {
     "id": 173,
-    "codigo": "SIN CÓDIGO",
+    "codigo": "103103",
     "nombre": "Reducción 2\" x 1\" SP",
     "categoria": "Agua",
     "linea": "IN",
@@ -2059,7 +2059,7 @@
   },
   {
     "id": 174,
-    "codigo": "SIN CÓDIGO",
+    "codigo": "103102",
     "nombre": "Reducción 2\" x 3/4\" SP",
     "categoria": "Agua",
     "linea": "IN",
@@ -2109,7 +2109,7 @@
   },
   {
     "id": 175,
-    "codigo": "SIN CÓDIGO",
+    "codigo": "103101",
     "nombre": "Reducción 2\" x 1/2\" SP",
     "categoria": "Agua",
     "linea": "IN",
@@ -2159,7 +2159,7 @@
   },
   {
     "id": 176,
-    "codigo": "SIN CÓDIGO",
+    "codigo": "103100",
     "nombre": "Reducción 1 1/2\" x 1\" SP",
     "categoria": "Agua",
     "linea": "IN",
@@ -2729,7 +2729,7 @@
   },
   {
     "id": 122,
-    "codigo": "",
+    "codigo": "103040",
     "nombre": "Tapón 1/2\" CR macho",
     "categoria": "Agua",
     "linea": "IN",
@@ -2778,7 +2778,7 @@
   },
   {
     "id": 123,
-    "codigo": "",
+    "codigo": "103041",
     "nombre": "Tapón 3/4\" CR macho",
     "categoria": "Agua",
     "linea": "IN",
@@ -2827,7 +2827,7 @@
   },
   {
     "id": 124,
-    "codigo": "",
+    "codigo": "103042",
     "nombre": "Tapón 1\" CR macho",
     "categoria": "Agua",
     "linea": "IN",
@@ -2876,7 +2876,7 @@
   },
   {
     "id": 125,
-    "codigo": "",
+    "codigo": "103046",
     "nombre": "Tapón 1/2\" CR hembra",
     "categoria": "Agua",
     "linea": "IN",
@@ -2923,7 +2923,7 @@
   },
   {
     "id": 126,
-    "codigo": "",
+    "codigo": "103047",
     "nombre": "Tapón 3/4\" CR hembra",
     "categoria": "Agua",
     "linea": "IN",
@@ -2970,7 +2970,7 @@
   },
   {
     "id": 127,
-    "codigo": "",
+    "codigo": "103048",
     "nombre": "Tapón 1\" CR hembra",
     "categoria": "Agua",
     "linea": "IN",
@@ -3017,7 +3017,7 @@
   },
   {
     "id": 156,
-    "codigo": "SIN CÓDIGO",
+    "codigo": "103026",
     "nombre": "Tapón 1 1/2\" CR hembra",
     "categoria": "Agua",
     "linea": "IN",
@@ -3065,7 +3065,7 @@
   },
   {
     "id": 157,
-    "codigo": "SIN CÓDIGO",
+    "codigo": "103027",
     "nombre": "Tapón 2\" CR hembra",
     "categoria": "Agua",
     "linea": "IN",
@@ -3114,7 +3114,7 @@
   },
   {
     "id": 158,
-    "codigo": "SIN CÓDIGO",
+    "codigo": "103028",
     "nombre": "Tapón 3\" CR hembra",
     "categoria": "Agua",
     "linea": "IN",
@@ -3162,7 +3162,7 @@
   },
   {
     "id": 159,
-    "codigo": "SIN CÓDIGO",
+    "codigo": "103029",
     "nombre": "Tapón 4\" CR hembra",
     "categoria": "Agua",
     "linea": "IN",
@@ -3402,7 +3402,7 @@
   },
   {
     "id": 110,
-    "codigo": "",
+    "codigo": "103066",
     "nombre": "Tee inyectada 1 1/2\" SP",
     "categoria": "Agua",
     "linea": "IN",
@@ -3450,7 +3450,7 @@
   },
   {
     "id": 111,
-    "codigo": "",
+    "codigo": "103067",
     "nombre": "Tee inyectada 2\" SP",
     "categoria": "Agua",
     "linea": "IN",
@@ -3498,7 +3498,7 @@
   },
   {
     "id": 112,
-    "codigo": "",
+    "codigo": "103052",
     "nombre": "Tee inyectada 1/2\" CR",
     "categoria": "Agua",
     "linea": "IN",
@@ -3546,7 +3546,7 @@
   },
   {
     "id": 113,
-    "codigo": "",
+    "codigo": "103053",
     "nombre": "Tee inyectada 3/4\" CR",
     "categoria": "Agua",
     "linea": "IN",
@@ -3594,7 +3594,7 @@
   },
   {
     "id": 114,
-    "codigo": "",
+    "codigo": "103054",
     "nombre": "Tee inyectada 1\" CR",
     "categoria": "Agua",
     "linea": "IN",
@@ -3642,7 +3642,7 @@
   },
   {
     "id": 115,
-    "codigo": "",
+    "codigo": "103011",
     "nombre": "Tee inyectada 1 1/4\" CR",
     "categoria": "Agua",
     "linea": "IN",
@@ -3690,7 +3690,7 @@
   },
   {
     "id": 154,
-    "codigo": "SIN CÓDIGO",
+    "codigo": "103109",
     "nombre": "Tee 63 mm x 63 mm SP",
     "categoria": "Agua",
     "linea": "IN",
@@ -3739,7 +3739,7 @@
   },
   {
     "id": 155,
-    "codigo": "SIN CÓDIGO",
+    "codigo": "103110",
     "nombre": "Tee 75 mm x 75 mm SP",
     "categoria": "Agua",
     "linea": "IN",
@@ -3788,7 +3788,7 @@
   },
   {
     "id": 128,
-    "codigo": "",
+    "codigo": "103043",
     "nombre": "UPR inyectada 1/2\"",
     "categoria": "Agua",
     "linea": "IN",
@@ -3837,7 +3837,7 @@
   },
   {
     "id": 129,
-    "codigo": "",
+    "codigo": "103044",
     "nombre": "UPR inyectada 3/4\"",
     "categoria": "Agua",
     "linea": "IN",
@@ -3886,7 +3886,7 @@
   },
   {
     "id": 130,
-    "codigo": "",
+    "codigo": "103045",
     "nombre": "UPR inyectada 1\"",
     "categoria": "Agua",
     "linea": "IN",
@@ -3935,7 +3935,7 @@
   },
   {
     "id": 131,
-    "codigo": "",
+    "codigo": "103070",
     "nombre": "UPR inyectada 1 1/4\"",
     "categoria": "Agua",
     "linea": "IN",
@@ -3984,7 +3984,7 @@
   },
   {
     "id": 132,
-    "codigo": "",
+    "codigo": "103071",
     "nombre": "UPR inyectada 1 1/2\"",
     "categoria": "Agua",
     "linea": "IN",
@@ -4033,7 +4033,7 @@
   },
   {
     "id": 133,
-    "codigo": "",
+    "codigo": "103072",
     "nombre": "UPR inyectada 2\"",
     "categoria": "Agua",
     "linea": "IN",
@@ -4082,7 +4082,7 @@
   },
   {
     "id": 116,
-    "codigo": "",
+    "codigo": "103088",
     "nombre": "Unión universal 1/2\" CR",
     "categoria": "Agua",
     "linea": "IN",
@@ -4127,7 +4127,7 @@
   },
   {
     "id": 117,
-    "codigo": "",
+    "codigo": "103089",
     "nombre": "Unión universal 3/4\" CR",
     "categoria": "Agua",
     "linea": "IN",
@@ -4172,7 +4172,7 @@
   },
   {
     "id": 118,
-    "codigo": "",
+    "codigo": "103090",
     "nombre": "Unión universal 1\" CR",
     "categoria": "Agua",
     "linea": "IN",
@@ -4217,7 +4217,7 @@
   },
   {
     "id": 119,
-    "codigo": "",
+    "codigo": "103097",
     "nombre": "Unión 1/2\" SP",
     "categoria": "Agua",
     "linea": "IN",
@@ -4264,7 +4264,7 @@
   },
   {
     "id": 120,
-    "codigo": "",
+    "codigo": "103098",
     "nombre": "Unión 3/4\" SP",
     "categoria": "Agua",
     "linea": "IN",
@@ -4311,7 +4311,7 @@
   },
   {
     "id": 121,
-    "codigo": "",
+    "codigo": "103099",
     "nombre": "Unión 1\" SP",
     "categoria": "Agua",
     "linea": "IN",
@@ -4358,7 +4358,7 @@
   },
   {
     "id": 144,
-    "codigo": "SIN CÓDIGO",
+    "codigo": "103015",
     "nombre": "Unión mixta 1/2\" SCH80",
     "categoria": "Agua",
     "linea": "IN",
@@ -4410,7 +4410,7 @@
   },
   {
     "id": 145,
-    "codigo": "SIN CÓDIGO",
+    "codigo": "103016",
     "nombre": "Unión mixta 3/4\" SCH80",
     "categoria": "Agua",
     "linea": "IN",
@@ -4462,7 +4462,7 @@
   },
   {
     "id": 146,
-    "codigo": "SIN CÓDIGO",
+    "codigo": "103017",
     "nombre": "Unión mixta 1\" SCH80",
     "categoria": "Agua",
     "linea": "IN",
@@ -4514,7 +4514,7 @@
   },
   {
     "id": 1,
-    "codigo": "104008",
+    "codigo": "104005",
     "nombre": "Codo 1 1/2” x 90° SAL",
     "categoria": "Desagüe",
     "linea": "INY",
@@ -4564,7 +4564,7 @@
   },
   {
     "id": 2,
-    "codigo": "104009",
+    "codigo": "104010",
     "nombre": "Codo 4” x 45° SAL (54mm)",
     "categoria": "Desagüe",
     "linea": "INY",
@@ -4616,7 +4616,7 @@
   },
   {
     "id": 3,
-    "codigo": "104010",
+    "codigo": "104009",
     "nombre": "Codo 2” x 45° SAL (54mm)",
     "categoria": "Desagüe",
     "linea": "INY",
@@ -5443,7 +5443,7 @@
   },
   {
     "id": 19,
-    "codigo": "ATX-AB-1040160",
+    "codigo": "104001",
     "nombre": "Unión 2” SAL (54mm)",
     "categoria": "Desagüe",
     "linea": "IN",
@@ -5484,7 +5484,7 @@
     },
     "imagenes": [
       "UNION 2.png",
-      "PLANO UNION DS.png"
+      "PLANO UNION DS .png"
     ],
     "catalogo": "desague"
   },
@@ -5752,7 +5752,7 @@
   },
   {
     "id": 91,
-    "codigo": "",
+    "codigo": "104026",
     "nombre": "Codo 3\" x 45° SAL",
     "categoria": "Desagüe",
     "linea": "IN",
@@ -5804,7 +5804,7 @@
   },
   {
     "id": 92,
-    "codigo": "",
+    "codigo": "104027",
     "nombre": "Codo 3\" x 90° SAL",
     "categoria": "Desagüe",
     "linea": "IN",
@@ -5856,7 +5856,7 @@
   },
   {
     "id": 94,
-    "codigo": "",
+    "codigo": "104025",
     "nombre": "Tee 3\" x 3\" SAL",
     "categoria": "Desagüe",
     "linea": "IN",
@@ -6185,7 +6185,7 @@
   },
   {
     "id": 89,
-    "codigo": "",
+    "codigo": "105012",
     "nombre": "Curva 1/2\" x 90° SAP",
     "categoria": "Eléctrico",
     "linea": "IN",
@@ -6232,7 +6232,7 @@
   },
   {
     "id": 90,
-    "codigo": "",
+    "codigo": "105011",
     "nombre": "Curva 3/4\" x 90° SEL",
     "categoria": "Eléctrico",
     "linea": "IN",
@@ -6564,7 +6564,7 @@
       "embalaje": "Saco"
     },
     "imagenes": [
-      "Codo  110 x 45.png",
+      "Codo 110 x 45.png",
       "PLANO CODO UF 45.png"
     ],
     "catalogo": "alcantarillado"
@@ -6990,14 +6990,14 @@
       "embalaje": "Sin especificar"
     },
     "imagenes": [
-      "SILLA YEE 200 x 160.png",
+      "SILLA YEE 200 X 160.png",
       "PLANO SILLA YEE.png"
     ],
     "catalogo": "alcantarillado"
   },
   {
     "id": 81,
-    "codigo": "",
+    "codigo": "101010",
     "nombre": "Silla tee inyectada 250 x 110 mm",
     "categoria": "Alcantarillado",
     "linea": "IN",
@@ -7051,7 +7051,7 @@
   },
   {
     "id": 82,
-    "codigo": "",
+    "codigo": "101009",
     "nombre": "Silla tee inyectada 315 x 160 mm",
     "categoria": "Alcantarillado",
     "linea": "IN",
@@ -7105,7 +7105,7 @@
   },
   {
     "id": 83,
-    "codigo": "",
+    "codigo": "101007",
     "nombre": "Silla tee inyectada 355 x 160 mm",
     "categoria": "Alcantarillado",
     "linea": "IN",
@@ -7159,7 +7159,7 @@
   },
   {
     "id": 84,
-    "codigo": "",
+    "codigo": "102011",
     "nombre": "Unión de reparación 160 mm",
     "categoria": "Alcantarillado",
     "linea": "IN",
