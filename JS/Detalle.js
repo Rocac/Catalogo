@@ -758,15 +758,31 @@ function renderizarLogistica(logistica) {
     return;
   }
 
+  const embalajeNormalizado = String(
+    logistica.embalaje || ""
+  )
+    .toLowerCase()
+    .trim();
+
+  const esBolsaPolietileno =
+    embalajeNormalizado === "bolsa de polietileno";
+
   const campos = [
     {
       propiedad: "tamanoCaja",
       etiqueta: "Tamaño de caja"
     },
-    {
-      propiedad: "volumen",
-      etiqueta: "Volumen"
-    },
+
+    // SOLO mostrar volumen si NO es bolsa de polietileno
+    ...(!esBolsaPolietileno
+      ? [
+          {
+            propiedad: "volumen",
+            etiqueta: "Volumen"
+          }
+        ]
+      : []),
+
     {
       propiedad: "pesoBruto",
       etiqueta: "Peso bruto"
@@ -783,7 +799,7 @@ function renderizarLogistica(logistica) {
       propiedad: "piezasBolsa",
       etiqueta: "Piezas por bolsa"
     },
-    { 
+    {
       propiedad: "embalaje",
       etiqueta: "Embalaje"
     }

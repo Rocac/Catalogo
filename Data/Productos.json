@@ -41,7 +41,8 @@
       "pesoBruto": "14.549 kg",
       "pesoNeto": "14.025 kg",
       "unidadesCaja": "825",
-      "embalaje": "Caja de cartón corrugado"
+      "embalaje": "Caja de cartón corrugado",
+      "piezasBolsa": "75"
     },
     "imagenes": [
       "bushing 3_4 x 1_2.png",
@@ -91,7 +92,8 @@
       "pesoBruto": "12.624 kg",
       "pesoNeto": "12.1 kg",
       "unidadesCaja": "1100",
-      "embalaje": "Caja de cartón corrugado"
+      "embalaje": "Caja de cartón corrugado",
+      "piezasBolsa": "100"
     },
     "imagenes": [
       "bushing 1_2x 35.png",
@@ -141,7 +143,8 @@
       "pesoBruto": "12.224 kg",
       "pesoNeto": "11.7 kg",
       "unidadesCaja": "900",
-      "embalaje": "Caja de cartón corrugado"
+      "embalaje": "Caja de cartón corrugado",
+      "piezasBolsa": "75"
     },
     "imagenes": [
       "bushing 1_2x 45.png",
@@ -189,7 +192,8 @@
       "pesoBruto": "15 kg",
       "pesoNeto": "15 kg",
       "unidadesCaja": "500",
-      "embalaje": "Bolsa de polietileno"
+      "embalaje": "Bolsa de polietileno",
+      "piezasBolsa": "25"
     },
     "imagenes": [
       "CODO 1_2 X 45 SP.png",
@@ -237,7 +241,8 @@
       "pesoBruto": "15.6 kg",
       "pesoNeto": "15.6 kg",
       "unidadesCaja": "400",
-      "embalaje": "Bolsa de polietileno"
+      "embalaje": "Bolsa de polietileno",
+      "piezasBolsa": "20"
     },
     "imagenes": [
       "CODO 3_4 X 45 SP.png",
@@ -285,7 +290,8 @@
       "pesoBruto": "10.874 kg",
       "pesoNeto": "10.35 kg",
       "unidadesCaja": "150",
-      "embalaje": "Caja de cartón corrugado"
+      "embalaje": "Caja de cartón corrugado",
+      "piezasBolsa": "15"
     },
     "imagenes": [
       "CODO 1 X 45 SP.png",
@@ -336,7 +342,8 @@
       "pesoBruto": "14.4 kg",
       "pesoNeto": "14.4 kg",
       "unidadesCaja": "450",
-      "embalaje": "Caja de cartón corrugado"
+      "embalaje": "Caja de cartón corrugado",
+      "piezasBolsa": "25"
     },
     "imagenes": [
       "CODO 1_2 X 90 SP.png",
@@ -387,7 +394,8 @@
       "pesoBruto": "0.524 kg",
       "pesoNeto": "0 kg",
       "unidadesCaja": "Sin especificar",
-      "embalaje": "Caja de cartón corrugado"
+      "embalaje": "Caja de cartón corrugado",
+      "piezasBolsa": "20"
     },
     "imagenes": [
       "CODO 3_4 X 90 SP.png",
@@ -438,7 +446,8 @@
       "pesoBruto": "13.124 kg",
       "pesoNeto": "12.6 kg",
       "unidadesCaja": "150",
-      "embalaje": "Caja de cartón corrugado"
+      "embalaje": "Caja de cartón corrugado",
+      "piezasBolsa": "15"
     },
     "imagenes": [
       "CODO 1 X 90 SP.png",
@@ -730,7 +739,8 @@
       "pesoBruto": "15 kg",
       "pesoNeto": "15 kg",
       "unidadesCaja": "500",
-      "embalaje": "Bolsa de polietileno"
+      "embalaje": "Bolsa de polietileno",
+      "piezasBolsa": "40"
     },
     "imagenes": [
       "CODO 1_2 X 90 LR.png",
@@ -781,7 +791,8 @@
       "pesoBruto": "13.684 kg",
       "pesoNeto": "13.16 kg",
       "unidadesCaja": "280",
-      "embalaje": "Caja de cartón corrugado"
+      "embalaje": "Caja de cartón corrugado",
+      "piezasBolsa": "20"
     },
     "imagenes": [
       "CODO 3_4 X 90 LR.png",
@@ -832,7 +843,8 @@
       "pesoBruto": "12.239 kg",
       "pesoNeto": "11.715 kg",
       "unidadesCaja": "165",
-      "embalaje": "Caja de cartón corrugado"
+      "embalaje": "Caja de cartón corrugado",
+      "piezasBolsa": "15"
     },
     "imagenes": [
       "CODO 1 X 90 LR.png",
@@ -928,7 +940,8 @@
       "pesoBruto": "14.024 kg",
       "pesoNeto": "13.5 kg",
       "unidadesCaja": "450",
-      "embalaje": "Caja de cartón corrugado"
+      "embalaje": "Caja de cartón corrugado",
+      "piezasBolsa": "30"
     },
     "imagenes": [
       "CODO 1_2 X 90 SP.png",
@@ -977,7 +990,8 @@
       "pesoBruto": "17.4 kg",
       "pesoNeto": "17.4 kg",
       "unidadesCaja": "300",
-      "embalaje": "Bolsa de polietileno"
+      "embalaje": "Bolsa de polietileno",
+      "piezasBolsa": "20"
     },
     "imagenes": [
       "CODO 3_4 X 90 SP.png",
@@ -1026,7 +1040,8 @@
       "pesoBruto": "11.25 kg",
       "pesoNeto": "11.25 kg",
       "unidadesCaja": "150",
-      "embalaje": "Bolsa de polietileno"
+      "embalaje": "Bolsa de polietileno",
+      "piezasBolsa": "15"
     },
     "imagenes": [
       "CODO 1 X 90 SP.png",
@@ -1273,7 +1288,8 @@
       "pesoBruto": "12.424 kg",
       "pesoNeto": "11.9 kg",
       "unidadesCaja": "850",
-      "embalaje": "Caja de cartón corrugado"
+      "embalaje": "Caja de cartón corrugado",
+      "piezasBolsa": "50"
     },
     "imagenes": [
       "Conex manguer 1_2 x 1_2.png",
@@ -1320,7 +1336,8 @@
       "pesoBruto": "11.024 kg",
       "pesoNeto": "10.5 kg",
       "unidadesCaja": "750",
-      "embalaje": "Caja de cartón corrugado"
+      "embalaje": "Caja de cartón corrugado",
+      "piezasBolsa": "50"
     },
     "imagenes": [
       "Conex manguer 1_2 x 5_8.png",
@@ -1367,7 +1384,8 @@
       "pesoBruto": "10.024 kg",
       "pesoNeto": "9.5 kg",
       "unidadesCaja": "500",
-      "embalaje": "Caja de cartón corrugado"
+      "embalaje": "Caja de cartón corrugado",
+      "piezasBolsa": "50"
     },
     "imagenes": [
       "Conex manguer 3_4 x 3_4.png",
@@ -1414,7 +1432,8 @@
       "pesoBruto": "10.124 kg",
       "pesoNeto": "9.6 kg",
       "unidadesCaja": "300",
-      "embalaje": "Caja de cartón corrugado"
+      "embalaje": "Caja de cartón corrugado",
+      "piezasBolsa": "25"
     },
     "imagenes": [
       "Conex manguer 1 x 1.png",
@@ -1852,7 +1871,8 @@
       "pesoBruto": "9.974 kg",
       "pesoNeto": "9.45 kg",
       "unidadesCaja": "210",
-      "embalaje": "Caja de cartón corrugado"
+      "embalaje": "Caja de cartón corrugado",
+      "piezasBolsa": "15"
     },
     "imagenes": [
       "RED 1 X 3_4 SP.png",
@@ -1902,7 +1922,8 @@
       "pesoBruto": "11.084 kg",
       "pesoNeto": "10.56 kg",
       "unidadesCaja": "240",
-      "embalaje": "Caja de cartón corrugado"
+      "embalaje": "Caja de cartón corrugado",
+      "piezasBolsa": "15"
     },
     "imagenes": [
       "RED 1 X 1_2 SP.png",
@@ -1952,7 +1973,8 @@
       "pesoBruto": "10.924 kg",
       "pesoNeto": "10.4 kg",
       "unidadesCaja": "400",
-      "embalaje": "Caja de cartón corrugado"
+      "embalaje": "Caja de cartón corrugado",
+      "piezasBolsa": "25"
     },
     "imagenes": [
       "RED 3_4 X 1_2 SP.png",
@@ -2443,7 +2465,8 @@
       "pesoBruto": "13.124 kg",
       "pesoNeto": "12.6 kg",
       "unidadesCaja": "1400",
-      "embalaje": "Caja de cartón corrugado"
+      "embalaje": "Caja de cartón corrugado",
+      "piezasBolsa": "100"
     },
     "imagenes": [
       "Tapon 1_2.png",
@@ -2491,7 +2514,8 @@
       "pesoBruto": "11.724 kg",
       "pesoNeto": "11.2 kg",
       "unidadesCaja": "800",
-      "embalaje": "Caja de cartón corrugado"
+      "embalaje": "Caja de cartón corrugado",
+      "piezasBolsa": "50"
     },
     "imagenes": [
       "Tapon 3_4.png",
@@ -2539,7 +2563,8 @@
       "pesoBruto": "14.924 kg",
       "pesoNeto": "14.4 kg",
       "unidadesCaja": "600",
-      "embalaje": "Caja de cartón corrugado"
+      "embalaje": "Caja de cartón corrugado",
+      "piezasBolsa": "30"
     },
     "imagenes": [
       "Tapon 1.png",
@@ -2776,7 +2801,8 @@
       "pesoBruto": "14.924 kg",
       "pesoNeto": "14.4 kg",
       "unidadesCaja": "1800",
-      "embalaje": "Caja de cartón corrugado"
+      "embalaje": "Caja de cartón corrugado",
+      "piezasBolsa": "150"
     },
     "imagenes": [
       "TAPON 1_2 CR macho.png",
@@ -2825,7 +2851,8 @@
       "pesoBruto": "17.324 kg",
       "pesoNeto": "16.8 kg",
       "unidadesCaja": "1200",
-      "embalaje": "Caja de cartón corrugado"
+      "embalaje": "Caja de cartón corrugado",
+      "piezasBolsa": "100"
     },
     "imagenes": [
       "TAPON 3_4 CR macho.png",
@@ -2874,7 +2901,8 @@
       "pesoBruto": "13.724 kg",
       "pesoNeto": "13.2 kg",
       "unidadesCaja": "600",
-      "embalaje": "Caja de cartón corrugado"
+      "embalaje": "Caja de cartón corrugado",
+      "piezasBolsa": "50"
     },
     "imagenes": [
       "TAPON 1 CR macho.png",
@@ -2921,7 +2949,8 @@
       "pesoBruto": "17.024 kg",
       "pesoNeto": "16.5 kg",
       "unidadesCaja": "1100",
-      "embalaje": "Caja de cartón corrugado"
+      "embalaje": "Caja de cartón corrugado",
+      "piezasBolsa": "100"
     },
     "imagenes": [
       "Tapon1_2 H- CR.png",
@@ -2968,7 +2997,8 @@
       "pesoBruto": "14.774 kg",
       "pesoNeto": "14.25 kg",
       "unidadesCaja": "750",
-      "embalaje": "Caja de cartón corrugado"
+      "embalaje": "Caja de cartón corrugado",
+      "piezasBolsa": "75"
     },
     "imagenes": [
       "Tapon3_4 H- CR.png",
@@ -3015,7 +3045,8 @@
       "pesoBruto": "13.724 kg",
       "pesoNeto": "13.2 kg",
       "unidadesCaja": "440",
-      "embalaje": "Caja de cartón corrugado"
+      "embalaje": "Caja de cartón corrugado",
+      "piezasBolsa": "40"
     },
     "imagenes": [
       "Tapon 1 H- CR.png",
@@ -3256,7 +3287,8 @@
       "pesoBruto": "13.424 kg",
       "pesoNeto": "12.9 kg",
       "unidadesCaja": "300",
-      "embalaje": "Caja de cartón corrugado"
+      "embalaje": "Caja de cartón corrugado",
+      "piezasBolsa": "30"
     },
     "imagenes": [
       "Tee 1_2SP.png",
@@ -3304,7 +3336,8 @@
       "pesoBruto": "13.124 kg",
       "pesoNeto": "12.6 kg",
       "unidadesCaja": "200",
-      "embalaje": "Caja de cartón corrugado"
+      "embalaje": "Caja de cartón corrugado",
+      "piezasBolsa": "20"
     },
     "imagenes": [
       "Tee 3_4SP.png",
@@ -3352,7 +3385,8 @@
       "pesoBruto": "10.974 kg",
       "pesoNeto": "10.45 kg",
       "unidadesCaja": "110",
-      "embalaje": "Caja de cartón corrugado"
+      "embalaje": "Caja de cartón corrugado",
+      "piezasBolsa": "10"
     },
     "imagenes": [
       "Tee 1SP.png",
@@ -3544,7 +3578,8 @@
       "pesoBruto": "14.054 kg",
       "pesoNeto": "13.53 kg",
       "unidadesCaja": "330",
-      "embalaje": "Caja de cartón corrugado"
+      "embalaje": "Caja de cartón corrugado",
+      "piezasBolsa": "30"
     },
     "imagenes": [
       "Tee 1_2 CR.png",
@@ -3592,7 +3627,8 @@
       "pesoBruto": "12.844 kg",
       "pesoNeto": "12.32 kg",
       "unidadesCaja": "220",
-      "embalaje": "Caja de cartón corrugado"
+      "embalaje": "Caja de cartón corrugado",
+      "piezasBolsa": "20"
     },
     "imagenes": [
       "TEE 3_4 CR.png",
@@ -3640,7 +3676,8 @@
       "pesoBruto": "10.864 kg",
       "pesoNeto": "10.34 kg",
       "unidadesCaja": "110",
-      "embalaje": "Caja de cartón corrugado"
+      "embalaje": "Caja de cartón corrugado",
+      "piezasBolsa": "10"
     },
     "imagenes": [
       "Tee 1 CR.png",
@@ -3837,7 +3874,8 @@
       "pesoBruto": "13.124 kg",
       "pesoNeto": "12.6 kg",
       "unidadesCaja": "600",
-      "embalaje": "Caja de cartón corrugado"
+      "embalaje": "Caja de cartón corrugado",
+      "piezasBolsa": "50"
     },
     "imagenes": [
       "UPR 1_2.png",
@@ -3886,7 +3924,8 @@
       "pesoBruto": "13.544 kg",
       "pesoNeto": "13.02 kg",
       "unidadesCaja": "420",
-      "embalaje": "Caja de cartón corrugado"
+      "embalaje": "Caja de cartón corrugado",
+      "piezasBolsa": "30"
     },
     "imagenes": [
       "UPR 3_4.png",
@@ -3935,7 +3974,8 @@
       "pesoBruto": "12.844 kg",
       "pesoNeto": "12.32 kg",
       "unidadesCaja": "280",
-      "embalaje": "Caja de cartón corrugado"
+      "embalaje": "Caja de cartón corrugado",
+      "piezasBolsa": "20"
     },
     "imagenes": [
       "UPR 1.png",
@@ -4127,7 +4167,8 @@
       "pesoBruto": "7.424 kg",
       "pesoNeto": "6.9 kg",
       "unidadesCaja": "150",
-      "embalaje": "Caja de cartón corrugado"
+      "embalaje": "Caja de cartón corrugado",
+      "piezasBolsa": "1"
     },
     "imagenes": [
       "U.U 1_2.png",
@@ -4172,7 +4213,8 @@
       "pesoBruto": "8.444 kg",
       "pesoNeto": "7.92 kg",
       "unidadesCaja": "120",
-      "embalaje": "Caja de cartón corrugado"
+      "embalaje": "Caja de cartón corrugado",
+      "piezasBolsa": "1"
     },
     "imagenes": [
       "U.U  3_4.png",
@@ -4217,7 +4259,8 @@
       "pesoBruto": "10.604 kg",
       "pesoNeto": "10.08 kg",
       "unidadesCaja": "90",
-      "embalaje": "Caja de cartón corrugado"
+      "embalaje": "Caja de cartón corrugado",
+      "piezasBolsa": "1"
     },
     "imagenes": [
       "U.U  1.png",
@@ -4264,7 +4307,8 @@
       "pesoBruto": "12.524 kg",
       "pesoNeto": "12 kg",
       "unidadesCaja": "480",
-      "embalaje": "Caja de cartón corrugado"
+      "embalaje": "Caja de cartón corrugado",
+      "piezasBolsa": "40"
     },
     "imagenes": [
       "union 1_2.png",
@@ -4311,7 +4355,8 @@
       "pesoBruto": "11.024 kg",
       "pesoNeto": "10.5 kg",
       "unidadesCaja": "300",
-      "embalaje": "Caja de cartón corrugado"
+      "embalaje": "Caja de cartón corrugado",
+      "piezasBolsa": "25"
     },
     "imagenes": [
       "union 3_4.png",
@@ -4358,7 +4403,8 @@
       "pesoBruto": "11.234 kg",
       "pesoNeto": "10.71 kg",
       "unidadesCaja": "210",
-      "embalaje": "Caja de cartón corrugado"
+      "embalaje": "Caja de cartón corrugado",
+      "piezasBolsa": "15"
     },
     "imagenes": [
       "union 1.png",
@@ -4409,7 +4455,8 @@
       "pesoBruto": "25.5 kg",
       "pesoNeto": "25.5 kg",
       "unidadesCaja": "500",
-      "embalaje": "Bolsa de polietileno"
+      "embalaje": "Bolsa de polietileno",
+      "piezasBolsa": "25"
     },
     "imagenes": [
       "UnionMixta 1_2.png",
@@ -4461,7 +4508,8 @@
       "pesoBruto": "13.2 kg",
       "pesoNeto": "13.2 kg",
       "unidadesCaja": "400",
-      "embalaje": "Bolsa de polietileno"
+      "embalaje": "Bolsa de polietileno",
+      "piezasBolsa": "20"
     },
     "imagenes": [
       "UnionMixta 3_4.png",
@@ -4513,7 +4561,8 @@
       "pesoBruto": "6.3 kg",
       "pesoNeto": "6.3 kg",
       "unidadesCaja": "300",
-      "embalaje": "Bolsa de polietileno"
+      "embalaje": "Bolsa de polietileno",
+      "piezasBolsa": "15"
     },
     "imagenes": [
       "UnionMixta 1.png",
@@ -6044,7 +6093,8 @@
       "pesoBruto": "Sin especificar",
       "pesoNeto": "Sin especificar",
       "unidadesCaja": "3000",
-      "embalaje": "Bolsa de polietileno"
+      "embalaje": "Bolsa de polietileno",
+      "piezasBolsa": "250"
     },
     "imagenes": [
       "Conector 3_4SEL.png",
@@ -6091,7 +6141,8 @@
       "pesoBruto": "5 kg",
       "pesoNeto": "5 kg",
       "unidadesCaja": "2500",
-      "embalaje": "Bolsa de polietileno"
+      "embalaje": "Bolsa de polietileno",
+      "piezasBolsa": "250"
     },
     "imagenes": [
       "Conector 1_2SAP.png",
@@ -6138,7 +6189,8 @@
       "pesoBruto": "9 kg",
       "pesoNeto": "9 kg",
       "unidadesCaja": "1500",
-      "embalaje": "Bolsa de polietileno"
+      "embalaje": "Bolsa de polietileno",
+      "piezasBolsa": "150"
     },
     "imagenes": [
       "Conector 3_4SAP.png",
@@ -6185,7 +6237,8 @@
       "pesoBruto": "10.5 kg",
       "pesoNeto": "10.5 kg",
       "unidadesCaja": "1050",
-      "embalaje": "Bolsa de polietileno"
+      "embalaje": "Bolsa de polietileno",
+      "piezasBolsa": "80"
     },
     "imagenes": [
       "Conector 1SAP.png",
@@ -6326,7 +6379,8 @@
       "pesoBruto": "10.4 kg",
       "pesoNeto": "10.4 kg",
       "unidadesCaja": "1300",
-      "embalaje": "Bolsa de polietileno"
+      "embalaje": "Bolsa de polietileno",
+      "piezasBolsa": "100"
     },
     "imagenes": [
       "union 3_4.png",
@@ -6373,7 +6427,8 @@
       "pesoBruto": "10 kg",
       "pesoNeto": "10 kg",
       "unidadesCaja": "1000",
-      "embalaje": "Bolsa de polietileno"
+      "embalaje": "Bolsa de polietileno",
+      "piezasBolsa": "100"
     },
     "imagenes": [
       "union 1_2.png",
@@ -6420,7 +6475,8 @@
       "pesoBruto": "27.2 kg",
       "pesoNeto": "26.5 kg",
       "unidadesCaja": "100",
-      "embalaje": "Caja de cartón corrugado"
+      "embalaje": "Caja de cartón corrugado",
+      "piezasBolsa": "60"
     },
     "imagenes": [
       "union 3_4.png",
