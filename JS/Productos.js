@@ -94,6 +94,9 @@ document.addEventListener("DOMContentLoaded", () => {
       case "agua":
         return "product-category-tag--agua";
 
+      case "riego":
+        return "product-category-tag--riego";
+
       case "alcantarillado":
         return "product-category-tag--alcantarillado";
 
@@ -112,6 +115,9 @@ document.addEventListener("DOMContentLoaded", () => {
 
     switch (categoriaNormalizada) {
       case "agua":
+        return "≋";
+
+      case "riego":
         return "≋";
 
       case "alcantarillado":
@@ -321,6 +327,10 @@ if (clearSearch) {
 
     if (categoriaSeleccionada === "alcantarillado") {
       return categoriaProducto === "alcantarillado";
+    }
+
+    if (categoriaSeleccionada === "riego") {
+      return categoriaProducto === "riego";
     }
 
     if (categoriaSeleccionada === "agua-inyectados") {
