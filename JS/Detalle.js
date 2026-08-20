@@ -780,6 +780,10 @@ function renderizarLogistica(logistica) {
       etiqueta: "Unidades por caja"
     },
     {
+      propiedad: "piezasBolsa",
+      etiqueta: "Piezas por bolsa"
+    },
+    { 
       propiedad: "embalaje",
       etiqueta: "Embalaje"
     }

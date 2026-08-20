@@ -1037,11 +1037,11 @@
   {
     "id": 150,
     "codigo": "103105",
-    "nombre": "Codo 63 mm x 90° SP",
-    "categoria": "Agua",
-    "linea": "IN",
+    "nombre": "CODO 63mm X 90° SP PN 10 ISO",
+    "categoria": "Riego",
+    "linea": "PN 10 ISO",
     "tipo": "Codo",
-    "serie": "Codo SP",
+    "serie": "Codo SP PN 10 ISO",
     "diametro": "63 mm",
     "descripcion": "Permite realizar cambios de dirección en la instalación mediante una conexión segura, resistente y de fácil montaje.",
     "imagen": "Codo 63 x 90 SP.png",
@@ -1055,9 +1055,9 @@
       "Resistencia a la corrosión, humedad y uso continuo"
     ],
     "aplicaciones": [
-      "Redes de agua fría a presión",
-      "Instalaciones residenciales, comerciales e industriales",
-      "Sistemas de abastecimiento y distribución de agua"
+      "Sistemas de riego y conducción de agua",
+      "Instalaciones agrícolas, comerciales e industriales",
+      "Redes de distribución de agua para riego"
     ],
     "tablaTecnica": {
       "D1": "63.4",
@@ -1080,17 +1080,18 @@
       "Codo 63 x 90 SP.png",
       "PLANO CODO X 90 SP.png"
     ],
-    "catalogo": "agua",
-    "pendienteCompletar": true
+    "catalogo": "riego",
+    "pendienteCompletar": true,
+    "precioUnitario": "3.78"
   },
   {
     "id": 151,
     "codigo": "103106",
-    "nombre": "Codo 75 mm x 90° SP",
-    "categoria": "Agua",
-    "linea": "IN",
+    "nombre": "CODO 75mm X 90° SP PN 10 ISO",
+    "categoria": "Riego",
+    "linea": "PN 10 ISO",
     "tipo": "Codo",
-    "serie": "Codo SP",
+    "serie": "Codo SP PN 10 ISO",
     "diametro": "75 mm",
     "descripcion": "Permite realizar cambios de dirección en la instalación mediante una conexión segura, resistente y de fácil montaje.",
     "imagen": "Codo 75 x 90 SP.png",
@@ -1104,9 +1105,9 @@
       "Resistencia a la corrosión, humedad y uso continuo"
     ],
     "aplicaciones": [
-      "Redes de agua fría a presión",
-      "Instalaciones residenciales, comerciales e industriales",
-      "Sistemas de abastecimiento y distribución de agua"
+      "Sistemas de riego y conducción de agua",
+      "Instalaciones agrícolas, comerciales e industriales",
+      "Redes de distribución de agua para riego"
     ],
     "tablaTecnica": {
       "D1": "75.4",
@@ -1129,17 +1130,18 @@
       "Codo 75 x 90 SP.png",
       "PLANO CODO X 90 SP.png"
     ],
-    "catalogo": "agua",
-    "pendienteCompletar": true
+    "catalogo": "riego",
+    "pendienteCompletar": true,
+    "precioUnitario": "6.336"
   },
   {
     "id": 152,
     "codigo": "103107",
-    "nombre": "Codo 110 mm x 45° SP",
-    "categoria": "Agua",
-    "linea": "IN",
+    "nombre": "CODO 110mm X 45° SP PN 10 ISO",
+    "categoria": "Riego",
+    "linea": "PN 10 ISO",
     "tipo": "Codo",
-    "serie": "Codo SP",
+    "serie": "Codo SP PN 10 ISO",
     "diametro": "110 mm",
     "descripcion": "Permite realizar cambios de dirección en la instalación mediante una conexión segura, resistente y de fácil montaje.",
     "imagen": "CODO 110 X 45 SP.png",
@@ -1153,9 +1155,9 @@
       "Resistencia a la corrosión, humedad y uso continuo"
     ],
     "aplicaciones": [
-      "Redes de agua fría a presión",
-      "Instalaciones residenciales, comerciales e industriales",
-      "Sistemas de abastecimiento y distribución de agua"
+      "Sistemas de riego y conducción de agua",
+      "Instalaciones agrícolas, comerciales e industriales",
+      "Redes de distribución de agua para riego"
     ],
     "tablaTecnica": {
       "d1": "110.6",
@@ -1178,17 +1180,18 @@
       "CODO 110 X 45 SP.png",
       "PLANO CODO X 45 SP.png"
     ],
-    "catalogo": "agua",
-    "pendienteCompletar": true
+    "catalogo": "riego",
+    "pendienteCompletar": true,
+    "precioUnitario": "12.87"
   },
   {
     "id": 153,
     "codigo": "103108",
-    "nombre": "Codo 110 mm x 90° SP",
-    "categoria": "Agua",
-    "linea": "IN",
+    "nombre": "CODO 110mm X 90° SP PN 10 ISO",
+    "categoria": "Riego",
+    "linea": "PN 10 ISO",
     "tipo": "Codo",
-    "serie": "Codo SP",
+    "serie": "Codo SP PN 10 ISO",
     "diametro": "110 mm",
     "descripcion": "Permite realizar cambios de dirección en la instalación mediante una conexión segura, resistente y de fácil montaje.",
     "imagen": "Codo 110 x 90 SP.png",
@@ -1202,9 +1205,9 @@
       "Resistencia a la corrosión, humedad y uso continuo"
     ],
     "aplicaciones": [
-      "Redes de agua fría a presión",
-      "Instalaciones residenciales, comerciales e industriales",
-      "Sistemas de abastecimiento y distribución de agua"
+      "Sistemas de riego y conducción de agua",
+      "Instalaciones agrícolas, comerciales e industriales",
+      "Redes de distribución de agua para riego"
     ],
     "tablaTecnica": {
       "D1": "110.5",
@@ -1227,8 +1230,9 @@
       "Codo 110 x 90 SP.png",
       "PLANO CODO X 90 SP.png"
     ],
-    "catalogo": "agua",
-    "pendienteCompletar": true
+    "catalogo": "riego",
+    "pendienteCompletar": true,
+    "precioUnitario": "16.56"
   },
   {
     "id": 136,
@@ -2210,11 +2214,11 @@
   {
     "id": 62,
     "codigo": "103022",
-    "nombre": "Tapón 63mm SP",
-    "categoria": "Agua",
-    "linea": "IN",
+    "nombre": "TAPON 63mm SP PN 10 ISO",
+    "categoria": "Riego",
+    "linea": "PN 10 ISO",
     "tipo": "Tapón",
-    "serie": "Tapón SP",
+    "serie": "Tapón SP PN 10 ISO",
     "diametro": "63.4 mm",
     "descripcion": "Permite sellar el extremo de tuberías de agua a presión con un cierre seguro y resistente.",
     "imagen": "Tapon 63.png",
@@ -2228,9 +2232,9 @@
       "Resistencia a la corrosión y a la humedad"
     ],
     "aplicaciones": [
-      "Redes de agua fría a presión",
-      "Instalaciones residenciales y comerciales",
-      "Sistemas de abastecimiento y distribución"
+      "Sistemas de riego y conducción de agua",
+      "Instalaciones agrícolas, comerciales e industriales",
+      "Redes de distribución de agua para riego"
     ],
     "tablaTecnica": {
       "D1": "63.4",
@@ -2252,16 +2256,17 @@
       "Tapon 63.png",
       "PLANO TAPON SP.png"
     ],
-    "catalogo": "agua"
+    "catalogo": "riego",
+    "precioUnitario": "2.030"
   },
   {
     "id": 63,
     "codigo": "103023",
-    "nombre": "Tapón 75mm SP",
-    "categoria": "Agua",
-    "linea": "IN",
+    "nombre": "TAPON 75mm SP PN 10 ISO",
+    "categoria": "Riego",
+    "linea": "PN 10 ISO",
     "tipo": "Tapón",
-    "serie": "Tapón SP",
+    "serie": "Tapón SP PN 10 ISO",
     "diametro": "75.4 mm",
     "descripcion": "Permite sellar el extremo de tuberías de agua a presión con un cierre seguro y resistente.",
     "imagen": "Tapon 75.png",
@@ -2275,9 +2280,9 @@
       "Resistencia a la corrosión y a la humedad"
     ],
     "aplicaciones": [
-      "Redes de agua fría a presión",
-      "Instalaciones residenciales y comerciales",
-      "Sistemas de abastecimiento y distribución"
+      "Sistemas de riego y conducción de agua",
+      "Instalaciones agrícolas, comerciales e industriales",
+      "Redes de distribución de agua para riego"
     ],
     "tablaTecnica": {
       "D1": "75.4",
@@ -2299,16 +2304,17 @@
       "Tapon 75.png",
       "PLANO TAPON SP.png"
     ],
-    "catalogo": "agua"
+    "catalogo": "riego",
+    "precioUnitario": "3.013"
   },
   {
     "id": 64,
     "codigo": "103024",
-    "nombre": "Tapón 90mm SP",
-    "categoria": "Agua",
-    "linea": "IN",
+    "nombre": "TAPON 90mm SP PN 10 ISO",
+    "categoria": "Riego",
+    "linea": "PN 10 ISO",
     "tipo": "Tapón",
-    "serie": "Tapón SP",
+    "serie": "Tapón SP PN 10 ISO",
     "diametro": "90.5 mm",
     "descripcion": "Permite sellar el extremo de tuberías de agua a presión con un cierre seguro y resistente.",
     "imagen": "Tapon 90.png",
@@ -2322,9 +2328,9 @@
       "Resistencia a la corrosión y a la humedad"
     ],
     "aplicaciones": [
-      "Redes de agua fría a presión",
-      "Instalaciones residenciales y comerciales",
-      "Sistemas de abastecimiento y distribución"
+      "Sistemas de riego y conducción de agua",
+      "Instalaciones agrícolas, comerciales e industriales",
+      "Redes de distribución de agua para riego"
     ],
     "tablaTecnica": {
       "D1": "90.5",
@@ -2346,16 +2352,17 @@
       "Tapon 90.png",
       "PLANO TAPON SP.png"
     ],
-    "catalogo": "agua"
+    "catalogo": "riego",
+    "precioUnitario": "4.723"
   },
   {
     "id": 65,
     "codigo": "103025",
-    "nombre": "Tapón 110mm SP",
-    "categoria": "Agua",
-    "linea": "IN",
+    "nombre": "TAPON 110mm SP PN 10 ISO",
+    "categoria": "Riego",
+    "linea": "PN 10 ISO",
     "tipo": "Tapón",
-    "serie": "Tapón SP",
+    "serie": "Tapón SP PN 10 ISO",
     "diametro": "110.6 mm",
     "descripcion": "Permite sellar el extremo de tuberías de agua a presión con un cierre seguro y resistente.",
     "imagen": "Tapon 110.png",
@@ -2369,9 +2376,9 @@
       "Resistencia a la corrosión y a la humedad"
     ],
     "aplicaciones": [
-      "Redes de agua fría a presión",
-      "Instalaciones residenciales y comerciales",
-      "Sistemas de abastecimiento y distribución"
+      "Sistemas de riego y conducción de agua",
+      "Instalaciones agrícolas, comerciales e industriales",
+      "Redes de distribución de agua para riego"
     ],
     "tablaTecnica": {
       "D1": "110.6",
@@ -2393,7 +2400,8 @@
       "Tapon 110.png",
       "PLANO TAPON SP.png"
     ],
-    "catalogo": "agua"
+    "catalogo": "riego",
+    "precioUnitario": "8.804"
   },
   {
     "id": 66,
@@ -3691,11 +3699,11 @@
   {
     "id": 154,
     "codigo": "103109",
-    "nombre": "Tee 63 mm x 63 mm SP",
-    "categoria": "Agua",
-    "linea": "IN",
+    "nombre": "TEE 63mm SP PN 10 ISO",
+    "categoria": "Riego",
+    "linea": "PN 10 ISO",
     "tipo": "Tee",
-    "serie": "Tee SP",
+    "serie": "Tee SP PN 10 ISO",
     "diametro": "63 x 63 mm",
     "descripcion": "Permite realizar derivaciones en la red, distribuyendo el flujo hacia una conexión secundaria.",
     "imagen": "TEE 63 X 63.png",
@@ -3709,9 +3717,9 @@
       "Resistencia a la corrosión, humedad y uso continuo"
     ],
     "aplicaciones": [
-      "Redes de agua fría a presión",
-      "Instalaciones residenciales, comerciales e industriales",
-      "Sistemas de abastecimiento y distribución de agua"
+      "Sistemas de riego y conducción de agua",
+      "Instalaciones agrícolas, comerciales e industriales",
+      "Redes de distribución de agua para riego"
     ],
     "tablaTecnica": {
       "D1": "63.5",
@@ -3734,17 +3742,18 @@
       "TEE 63 X 63.png",
       "PLANO TEE SP.png"
     ],
-    "catalogo": "agua",
-    "pendienteCompletar": true
+    "catalogo": "riego",
+    "pendienteCompletar": true,
+    "precioUnitario": "4.932"
   },
   {
     "id": 155,
     "codigo": "103110",
-    "nombre": "Tee 75 mm x 75 mm SP",
-    "categoria": "Agua",
-    "linea": "IN",
+    "nombre": "TEE 75mm SP PN 10 ISO",
+    "categoria": "Riego",
+    "linea": "PN 10 ISO",
     "tipo": "Tee",
-    "serie": "Tee SP",
+    "serie": "Tee SP PN 10 ISO",
     "diametro": "75 x 75 mm",
     "descripcion": "Permite realizar derivaciones en la red, distribuyendo el flujo hacia una conexión secundaria.",
     "imagen": "TEE 75 X 75.png",
@@ -3758,9 +3767,9 @@
       "Resistencia a la corrosión, humedad y uso continuo"
     ],
     "aplicaciones": [
-      "Redes de agua fría a presión",
-      "Instalaciones residenciales, comerciales e industriales",
-      "Sistemas de abastecimiento y distribución de agua"
+      "Sistemas de riego y conducción de agua",
+      "Instalaciones agrícolas, comerciales e industriales",
+      "Redes de distribución de agua para riego"
     ],
     "tablaTecnica": {
       "D1": "75.6",
@@ -3783,8 +3792,9 @@
       "TEE 75 X 75.png",
       "PLANO TEE SP.png"
     ],
-    "catalogo": "agua",
-    "pendienteCompletar": true
+    "catalogo": "riego",
+    "pendienteCompletar": true,
+    "precioUnitario": "8.244"
   },
   {
     "id": 128,
@@ -7206,12 +7216,12 @@
   {
     "id": 188,
     "codigo": "SIN CÓDIGO",
-    "nombre": "Unión corrediza 90 mm",
-    "categoria": "Agua",
-    "catalogo": "agua",
-    "linea": "IN",
+    "nombre": "UNION CORREDIZA 90 PN 10 ISO",
+    "categoria": "Riego",
+    "catalogo": "riego",
+    "linea": "PN 10 ISO",
     "tipo": "Unión",
-    "serie": "Unión corrediza SP",
+    "serie": "Unión corrediza PN 10 ISO",
     "diametro": "90 mm",
     "descripcion": "Permite unir dos tramos de tubería facilitando el montaje, desmontaje o reparación de la instalación sin necesidad de reemplazar grandes secciones de la red.",
     "imagen": "Union corrediza 90mm.png",
@@ -7225,9 +7235,9 @@
       "Resistencia a la corrosión, humedad y uso continuo."
     ],
     "aplicaciones": [
-      "Redes de agua a presión.",
-      "Instalaciones residenciales, comerciales e industriales.",
-      "Trabajos de mantenimiento y reparación de tuberías."
+      "Sistemas de riego y conducción de agua",
+      "Instalaciones agrícolas, comerciales e industriales",
+      "Redes de distribución de agua para riego"
     ],
     "tablaTecnica": {
       "D1": "Por confirmar",
@@ -7249,6 +7259,363 @@
       "Union corrediza 90mm.png",
       "PLANO UNION UF.png"
     ],
+    "pendienteCompletar": true,
+    "precioUnitario": "29.268"
+  },
+  {
+    "id": 189,
+    "codigo": "SIN CÓDIGO",
+    "nombre": "CODO 63mm X 45° SP PN 10 ISO",
+    "categoria": "Riego",
+    "linea": "PN 10 ISO",
+    "tipo": "Codo",
+    "serie": "Codo SP PN 10 ISO",
+    "diametro": "63 mm",
+    "descripcion": "Permite realizar cambios de dirección en sistemas de riego mediante una conexión segura y resistente.",
+    "normas": [
+      "PN 10 ISO según cuadro comercial; ficha técnica por confirmar"
+    ],
+    "beneficios": [
+      "Facilita cambios de dirección en la red",
+      "Conexión práctica y resistente",
+      "Ayuda a mantener la continuidad del sistema",
+      "Resistencia a la corrosión y a la humedad"
+    ],
+    "aplicaciones": [
+      "Sistemas de riego y conducción de agua",
+      "Instalaciones agrícolas, comerciales e industriales",
+      "Redes de distribución de agua para riego"
+    ],
+    "tablaTecnica": {
+      "A": "45°",
+      "D1": "Por confirmar",
+      "D2": "Por confirmar",
+      "E1": "Por confirmar",
+      "L1": "Por confirmar",
+      "L2": "Por confirmar"
+    },
+    "notaTecnica": "Producto incorporado a la sección Riego según el cuadro proporcionado. Código, imágenes, dimensiones y datos logísticos deben confirmarse antes de publicar.",
+    "logistica": {
+      "tamanoCaja": "Por confirmar",
+      "volumen": "Por confirmar",
+      "pesoBruto": "Por confirmar",
+      "pesoNeto": "Por confirmar",
+      "unidadesCaja": "Por confirmar",
+      "embalaje": "Por confirmar"
+    },
+    "catalogo": "riego",
+    "precioUnitario": "Por confirmar",
+    "pendienteCompletar": true
+  },
+  {
+    "id": 190,
+    "codigo": "SIN CÓDIGO",
+    "nombre": "CODO 75mm X 45° SP PN 10 ISO",
+    "categoria": "Riego",
+    "linea": "PN 10 ISO",
+    "tipo": "Codo",
+    "serie": "Codo SP PN 10 ISO",
+    "diametro": "75 mm",
+    "descripcion": "Permite realizar cambios de dirección en sistemas de riego mediante una conexión segura y resistente.",
+    "normas": [
+      "PN 10 ISO según cuadro comercial; ficha técnica por confirmar"
+    ],
+    "beneficios": [
+      "Facilita cambios de dirección en la red",
+      "Conexión práctica y resistente",
+      "Ayuda a mantener la continuidad del sistema",
+      "Resistencia a la corrosión y a la humedad"
+    ],
+    "aplicaciones": [
+      "Sistemas de riego y conducción de agua",
+      "Instalaciones agrícolas, comerciales e industriales",
+      "Redes de distribución de agua para riego"
+    ],
+    "tablaTecnica": {
+      "A": "45°",
+      "D1": "Por confirmar",
+      "D2": "Por confirmar",
+      "E1": "Por confirmar",
+      "L1": "Por confirmar",
+      "L2": "Por confirmar"
+    },
+    "notaTecnica": "Producto incorporado a la sección Riego según el cuadro proporcionado. Código, imágenes, dimensiones y datos logísticos deben confirmarse antes de publicar.",
+    "logistica": {
+      "tamanoCaja": "Por confirmar",
+      "volumen": "Por confirmar",
+      "pesoBruto": "Por confirmar",
+      "pesoNeto": "Por confirmar",
+      "unidadesCaja": "Por confirmar",
+      "embalaje": "Por confirmar"
+    },
+    "catalogo": "riego",
+    "precioUnitario": "Por confirmar",
+    "pendienteCompletar": true
+  },
+  {
+    "id": 191,
+    "codigo": "SIN CÓDIGO",
+    "nombre": "CODO 90mm X 45° SP PN 10 ISO",
+    "categoria": "Riego",
+    "linea": "PN 10 ISO",
+    "tipo": "Codo",
+    "serie": "Codo SP PN 10 ISO",
+    "diametro": "90 mm",
+    "descripcion": "Permite realizar cambios de dirección en sistemas de riego mediante una conexión segura y resistente.",
+    "normas": [
+      "PN 10 ISO según cuadro comercial; ficha técnica por confirmar"
+    ],
+    "beneficios": [
+      "Facilita cambios de dirección en la red",
+      "Conexión práctica y resistente",
+      "Ayuda a mantener la continuidad del sistema",
+      "Resistencia a la corrosión y a la humedad"
+    ],
+    "aplicaciones": [
+      "Sistemas de riego y conducción de agua",
+      "Instalaciones agrícolas, comerciales e industriales",
+      "Redes de distribución de agua para riego"
+    ],
+    "tablaTecnica": {
+      "A": "45°",
+      "D1": "Por confirmar",
+      "D2": "Por confirmar",
+      "E1": "Por confirmar",
+      "L1": "Por confirmar",
+      "L2": "Por confirmar"
+    },
+    "notaTecnica": "Producto incorporado a la sección Riego según el cuadro proporcionado. Código, imágenes, dimensiones y datos logísticos deben confirmarse antes de publicar.",
+    "logistica": {
+      "tamanoCaja": "Por confirmar",
+      "volumen": "Por confirmar",
+      "pesoBruto": "Por confirmar",
+      "pesoNeto": "Por confirmar",
+      "unidadesCaja": "Por confirmar",
+      "embalaje": "Por confirmar"
+    },
+    "catalogo": "riego",
+    "precioUnitario": "9.396",
+    "pendienteCompletar": true
+  },
+  {
+    "id": 192,
+    "codigo": "SIN CÓDIGO",
+    "nombre": "CODO 90mm X 90° SP PN 10 ISO",
+    "categoria": "Riego",
+    "linea": "PN 10 ISO",
+    "tipo": "Codo",
+    "serie": "Codo SP PN 10 ISO",
+    "diametro": "90 mm",
+    "descripcion": "Permite realizar cambios de dirección en sistemas de riego mediante una conexión segura y resistente.",
+    "normas": [
+      "PN 10 ISO según cuadro comercial; ficha técnica por confirmar"
+    ],
+    "beneficios": [
+      "Facilita cambios de dirección en la red",
+      "Conexión práctica y resistente",
+      "Ayuda a mantener la continuidad del sistema",
+      "Resistencia a la corrosión y a la humedad"
+    ],
+    "aplicaciones": [
+      "Sistemas de riego y conducción de agua",
+      "Instalaciones agrícolas, comerciales e industriales",
+      "Redes de distribución de agua para riego"
+    ],
+    "tablaTecnica": {
+      "A": "90°",
+      "D1": "Por confirmar",
+      "D2": "Por confirmar",
+      "E1": "Por confirmar",
+      "L1": "Por confirmar",
+      "L2": "Por confirmar"
+    },
+    "notaTecnica": "Producto incorporado a la sección Riego según el cuadro proporcionado. Código, imágenes, dimensiones y datos logísticos deben confirmarse antes de publicar.",
+    "logistica": {
+      "tamanoCaja": "Por confirmar",
+      "volumen": "Por confirmar",
+      "pesoBruto": "Por confirmar",
+      "pesoNeto": "Por confirmar",
+      "unidadesCaja": "Por confirmar",
+      "embalaje": "Por confirmar"
+    },
+    "catalogo": "riego",
+    "precioUnitario": "12.006",
+    "pendienteCompletar": true
+  },
+  {
+    "id": 193,
+    "codigo": "SIN CÓDIGO",
+    "nombre": "TEE 90mm SP PN 10 ISO",
+    "categoria": "Riego",
+    "linea": "PN 10 ISO",
+    "tipo": "Tee",
+    "serie": "Tee SP PN 10 ISO",
+    "diametro": "90 mm",
+    "descripcion": "Permite realizar derivaciones en sistemas de riego, distribuyendo el flujo hacia una conexión secundaria.",
+    "normas": [
+      "PN 10 ISO según cuadro comercial; ficha técnica por confirmar"
+    ],
+    "beneficios": [
+      "Facilita derivaciones seguras",
+      "Distribuye el flujo de manera eficiente",
+      "Instalación práctica",
+      "Resistencia a la corrosión y a la humedad"
+    ],
+    "aplicaciones": [
+      "Sistemas de riego y conducción de agua",
+      "Instalaciones agrícolas, comerciales e industriales",
+      "Redes de distribución de agua para riego"
+    ],
+    "tablaTecnica": {
+      "D1": "Por confirmar",
+      "D2": "Por confirmar",
+      "E1": "Por confirmar",
+      "L1": "Por confirmar",
+      "L2": "Por confirmar"
+    },
+    "notaTecnica": "Producto incorporado a la sección Riego según el cuadro proporcionado. Código, imágenes, dimensiones y datos logísticos deben confirmarse antes de publicar.",
+    "logistica": {
+      "tamanoCaja": "Por confirmar",
+      "volumen": "Por confirmar",
+      "pesoBruto": "Por confirmar",
+      "pesoNeto": "Por confirmar",
+      "unidadesCaja": "Por confirmar",
+      "embalaje": "Por confirmar"
+    },
+    "catalogo": "riego",
+    "precioUnitario": "Por confirmar",
+    "pendienteCompletar": true
+  },
+  {
+    "id": 194,
+    "codigo": "SIN CÓDIGO",
+    "nombre": "TEE 110mm SP PN 10 ISO",
+    "categoria": "Riego",
+    "linea": "PN 10 ISO",
+    "tipo": "Tee",
+    "serie": "Tee SP PN 10 ISO",
+    "diametro": "110 mm",
+    "descripcion": "Permite realizar derivaciones en sistemas de riego, distribuyendo el flujo hacia una conexión secundaria.",
+    "normas": [
+      "PN 10 ISO según cuadro comercial; ficha técnica por confirmar"
+    ],
+    "beneficios": [
+      "Facilita derivaciones seguras",
+      "Distribuye el flujo de manera eficiente",
+      "Instalación práctica",
+      "Resistencia a la corrosión y a la humedad"
+    ],
+    "aplicaciones": [
+      "Sistemas de riego y conducción de agua",
+      "Instalaciones agrícolas, comerciales e industriales",
+      "Redes de distribución de agua para riego"
+    ],
+    "tablaTecnica": {
+      "D1": "Por confirmar",
+      "D2": "Por confirmar",
+      "E1": "Por confirmar",
+      "L1": "Por confirmar",
+      "L2": "Por confirmar"
+    },
+    "notaTecnica": "Producto incorporado a la sección Riego según el cuadro proporcionado. Código, imágenes, dimensiones y datos logísticos deben confirmarse antes de publicar.",
+    "logistica": {
+      "tamanoCaja": "Por confirmar",
+      "volumen": "Por confirmar",
+      "pesoBruto": "Por confirmar",
+      "pesoNeto": "Por confirmar",
+      "unidadesCaja": "Por confirmar",
+      "embalaje": "Por confirmar"
+    },
+    "catalogo": "riego",
+    "precioUnitario": "Por confirmar",
+    "pendienteCompletar": true
+  },
+  {
+    "id": 195,
+    "codigo": "SIN CÓDIGO",
+    "nombre": "UNION CORREDIZA 110 PN 10 ISO",
+    "categoria": "Riego",
+    "linea": "PN 10 ISO",
+    "tipo": "Unión",
+    "serie": "Unión corrediza PN 10 ISO",
+    "diametro": "110 mm",
+    "descripcion": "Permite unir tramos de tubería y facilita labores de montaje, mantenimiento o reparación en sistemas de riego.",
+    "normas": [
+      "PN 10 ISO según cuadro comercial; ficha técnica por confirmar"
+    ],
+    "beneficios": [
+      "Facilita el montaje y mantenimiento",
+      "Permite realizar reparaciones de forma práctica",
+      "Proporciona una unión firme",
+      "Resistencia a la corrosión y a la humedad"
+    ],
+    "aplicaciones": [
+      "Sistemas de riego y conducción de agua",
+      "Instalaciones agrícolas, comerciales e industriales",
+      "Redes de distribución de agua para riego"
+    ],
+    "tablaTecnica": {
+      "D1": "Por confirmar",
+      "D2": "Por confirmar",
+      "E1": "Por confirmar",
+      "L1": "Por confirmar",
+      "L2": "Por confirmar"
+    },
+    "notaTecnica": "Producto incorporado a la sección Riego según el cuadro proporcionado. Código, imágenes, dimensiones y datos logísticos deben confirmarse antes de publicar.",
+    "logistica": {
+      "tamanoCaja": "Por confirmar",
+      "volumen": "Por confirmar",
+      "pesoBruto": "Por confirmar",
+      "pesoNeto": "Por confirmar",
+      "unidadesCaja": "Por confirmar",
+      "embalaje": "Por confirmar"
+    },
+    "catalogo": "riego",
+    "precioUnitario": "Por confirmar",
+    "pendienteCompletar": true
+  },
+  {
+    "id": 196,
+    "codigo": "SIN CÓDIGO",
+    "nombre": "UNION CORREDIZA 160 PN 10 ISO",
+    "categoria": "Riego",
+    "linea": "PN 10 ISO",
+    "tipo": "Unión",
+    "serie": "Unión corrediza PN 10 ISO",
+    "diametro": "160 mm",
+    "descripcion": "Permite unir tramos de tubería y facilita labores de montaje, mantenimiento o reparación en sistemas de riego.",
+    "normas": [
+      "PN 10 ISO según cuadro comercial; ficha técnica por confirmar"
+    ],
+    "beneficios": [
+      "Facilita el montaje y mantenimiento",
+      "Permite realizar reparaciones de forma práctica",
+      "Proporciona una unión firme",
+      "Resistencia a la corrosión y a la humedad"
+    ],
+    "aplicaciones": [
+      "Sistemas de riego y conducción de agua",
+      "Instalaciones agrícolas, comerciales e industriales",
+      "Redes de distribución de agua para riego"
+    ],
+    "tablaTecnica": {
+      "D1": "Por confirmar",
+      "D2": "Por confirmar",
+      "E1": "Por confirmar",
+      "L1": "Por confirmar",
+      "L2": "Por confirmar"
+    },
+    "notaTecnica": "Producto incorporado a la sección Riego según el cuadro proporcionado. Código, imágenes, dimensiones y datos logísticos deben confirmarse antes de publicar.",
+    "logistica": {
+      "tamanoCaja": "Por confirmar",
+      "volumen": "Por confirmar",
+      "pesoBruto": "Por confirmar",
+      "pesoNeto": "Por confirmar",
+      "unidadesCaja": "Por confirmar",
+      "embalaje": "Por confirmar"
+    },
+    "catalogo": "riego",
+    "precioUnitario": "Por confirmar",
     "pendienteCompletar": true
   }
 ]
