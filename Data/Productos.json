@@ -2379,7 +2379,7 @@
       "Redes de distribución de agua para riego"
     ],
     "tablaTecnica": {
-      "D1": "110.6",
+      "D1": "110.6",  
       "D2": "109.5",
       "L1": "67.8",
       "L2": "75.3",
@@ -5512,6 +5512,100 @@
     "catalogo": "desague"
   },
   {
+    "id": 197,
+    "codigo": "104001",
+    "nombre": "Unión 3” SAL (80mm)",
+    "categoria": "Desagüe",
+    "linea": "IN",
+    "tipo": "Unión",
+    "diametro": "80 mm",
+    "serie": "UNIÓN DS",
+    "descripcion": "Permite unir dos tramos de tubería de desagüe de manera segura y eficiente...",
+    "imagen": "Union 3 SAL.png",
+    "normas": [
+      "Norma técnica por confirmar"
+    ],
+    "beneficios": [
+      "Permite unir tramos o accesorios de forma segura",
+      "Facilita labores de montaje y mantenimiento",
+      "Ajuste firme y confiable",
+      "Buena resistencia al uso continuo"
+    ],
+    "aplicaciones": [
+      "Instalaciones sanitarias residenciales",
+      "Redes de desagüe en edificaciones",
+      "Proyectos comerciales e institucionales"
+    ],
+    "tablaTecnica": {
+      "D1": "80.5",
+      "D2": "79.8",
+      "E1": "1.9",
+      "L1": "53.2",
+      "L2": "109.5"
+    },
+    "notaTecnica": "Normas, dimensiones y datos logísticos referenciales. Confirmar con la ficha técnica oficial antes de publicar.",
+    "logistica": {
+      "tamanoCaja": "55 x 45 x 22.5 cm",
+      "volumen": "0.0556 m³",
+      "pesoBruto": "6.97 kg",
+      "pesoNeto": "6.15 kg",
+      "unidadesCaja": "75",
+      "embalaje": "Caja de cartón corrugado"
+    },
+    "imagenes": [
+      "Union 3 SAL.png",
+      "PLANO UNION DS .png"
+    ],
+    "catalogo": "desague"
+  },
+  {
+    "id": 198,
+    "codigo": "104001",
+    "nombre": "Unión 4” SAL (105mm)",
+    "categoria": "Desagüe",
+    "linea": "IN",
+    "tipo": "Unión",
+    "diametro": "105 mm",
+    "serie": "UNIÓN DS",
+    "descripcion": "Permite unir dos tramos de tubería de desagüe de manera segura y eficiente...",
+    "imagen": "Union 4 SAL.png",
+    "normas": [
+      "Norma técnica por confirmar"
+    ],
+    "beneficios": [
+      "Permite unir tramos o accesorios de forma segura",
+      "Facilita labores de montaje y mantenimiento",
+      "Ajuste firme y confiable",
+      "Buena resistencia al uso continuo"
+    ],
+    "aplicaciones": [
+      "Instalaciones sanitarias residenciales",
+      "Redes de desagüe en edificaciones",
+      "Proyectos comerciales e institucionales"
+    ],
+    "tablaTecnica": {
+      "d1": "105.6",
+      "d2": "104.8",
+      "e1": "2.0",
+      "L1": "60.5",
+      "L2": "124.5"
+    },
+    "notaTecnica": "Normas, dimensiones y datos logísticos referenciales. Confirmar con la ficha técnica oficial antes de publicar.",
+    "logistica": {
+      "tamanoCaja": "55 x 45 x 22.5 cm",
+      "volumen": "0.0556 m³",
+      "pesoBruto": "6.87 kg",
+      "pesoNeto": "6.05 kg",
+      "unidadesCaja": "50",
+      "embalaje": "Caja de cartón corrugado"
+    },
+    "imagenes": [
+      "Union 4 SAL.png",
+      "PLANO UNION DS .png"
+    ],
+    "catalogo": "desague"
+  },
+  {
     "id": 20,
     "codigo": "104022",
     "nombre": "Yee 2” x 2” SAL",
@@ -7260,20 +7354,20 @@
       "Redes de distribución de agua para riego"
     ],
     "tablaTecnica": {
-      "D1": "Por confirmar",
-      "D2": "Por confirmar",
-      "D3": "Por confirmar",
-      "L1": "Por confirmar",
-      "L2": "Por confirmar"
+      "D1": "92",
+      "L1": "148",
+      "L2": "232",
+      "L3": "41.5",
+      "E1": "6.5"
     },
     "notaTecnica": "Los datos dimensionales, código, norma y logística deben confirmarse con la ficha técnica oficial antes de su publicación.",
     "logistica": {
-      "tamanoCaja": "Por confirmar",
-      "volumen": "Por confirmar",
-      "pesoBruto": "Por confirmar",
-      "pesoNeto": "Por confirmar",
-      "unidadesCaja": "Por confirmar",
-      "embalaje": "Por confirmar"
+      "tamanoCaja": "55x45x22.5 cm",
+      "volumen": "0.05568 m³",
+      "pesoBruto": "11.245 kg",
+      "pesoNeto": "10.425 kg",
+      "unidadesCaja": "15",
+      "embalaje": "Caja de cartón corrugado"
     },
     "imagenes": [
       "Union corrediza 90mm.png",
@@ -7546,6 +7640,7 @@
     "serie": "Unión corrediza PN 10 ISO",
     "diametro": "110 mm",
     "descripcion": "Permite unir tramos de tubería y facilita labores de montaje, mantenimiento o reparación en sistemas de riego.",
+    "imagen": "Union corrediza 110mm.png",
     "normas": [
       "PN 10 ISO según cuadro comercial; ficha técnica por confirmar"
     ],
@@ -7561,21 +7656,25 @@
       "Redes de distribución de agua para riego"
     ],
     "tablaTecnica": {
-      "D1": "Por confirmar",
-      "D2": "Por confirmar",
-      "E1": "Por confirmar",
-      "L1": "Por confirmar",
-      "L2": "Por confirmar"
+      "D1": "112.5",
+      "L1": "164",
+      "L2": "266",
+      "L3": "51.6",
+      "E1": "7.8"
     },
     "notaTecnica": "Producto incorporado a la sección Riego según el cuadro proporcionado. Código, imágenes, dimensiones y datos logísticos deben confirmarse antes de publicar.",
     "logistica": {
-      "tamanoCaja": "Por confirmar",
-      "volumen": "Por confirmar",
-      "pesoBruto": "Por confirmar",
-      "pesoNeto": "Por confirmar",
-      "unidadesCaja": "Por confirmar",
-      "embalaje": "Por confirmar"
+      "tamanoCaja": "55 x 40 x 35.5 cm",
+      "volumen": "0.0781 m³",
+      "pesoBruto": "14.134 kg",
+      "pesoNeto": "13.354 kg",
+      "unidadesCaja": "11",
+      "embalaje": "Caja de cartón corrugado"
     },
+    "imagenes": [
+      "Union corrediza 110mm.png",
+      "PLANO UNION UF.png"
+    ],
     "catalogo": "riego"
   },
   {
@@ -7588,6 +7687,7 @@
     "serie": "Unión corrediza PN 10 ISO",
     "diametro": "160 mm",
     "descripcion": "Permite unir tramos de tubería y facilita labores de montaje, mantenimiento o reparación en sistemas de riego.",
+    "imagen": "Union corrediza 160mm.png",
     "normas": [
       "PN 10 ISO según cuadro comercial; ficha técnica por confirmar"
     ],
@@ -7603,21 +7703,25 @@
       "Redes de distribución de agua para riego"
     ],
     "tablaTecnica": {
-      "D1": "Por confirmar",
-      "D2": "Por confirmar",
-      "E1": "Por confirmar",
-      "L1": "Por confirmar",
-      "L2": "Por confirmar"
+      "D1": "162.8",
+      "L1": "189.7",
+      "L2": "312.6",
+      "L3": "61.9",
+      "E1": "10"
     },
     "notaTecnica": "Producto incorporado a la sección Riego según el cuadro proporcionado. Código, imágenes, dimensiones y datos logísticos deben confirmarse antes de publicar.",
     "logistica": {
-      "tamanoCaja": "Por confirmar",
-      "volumen": "Por confirmar",
-      "pesoBruto": "Por confirmar",
-      "pesoNeto": "Por confirmar",
-      "unidadesCaja": "Por confirmar",
-      "embalaje": "Por confirmar"
+      "tamanoCaja": "55 x 40 x 35.5 cm",
+      "volumen": "0.0781 m³",
+      "pesoBruto": "14.134 kg",
+      "pesoNeto": "13.354 kg",
+      "unidadesCaja": "11",
+      "embalaje": "Caja de cartón corrugado"
     },
+    "imagenes": [
+      "Union corrediza 160mm.png",
+      "PLANO UNION UF.png"
+    ],
     "catalogo": "riego"
   }
 ]
