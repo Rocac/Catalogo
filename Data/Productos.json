@@ -7640,7 +7640,7 @@
     "serie": "Unión corrediza PN 10 ISO",
     "diametro": "110 mm",
     "descripcion": "Permite unir tramos de tubería y facilita labores de montaje, mantenimiento o reparación en sistemas de riego.",
-    "imagen": "Union corrediza 110mm.png",
+    "imagen": "Union corrediza 110.png",
     "normas": [
       "PN 10 ISO según cuadro comercial; ficha técnica por confirmar"
     ],
@@ -7672,7 +7672,7 @@
       "embalaje": "Caja de cartón corrugado"
     },
     "imagenes": [
-      "Union corrediza 110mm.png",
+      "Union corrediza 110.png",
       "PLANO UNION UF.png"
     ],
     "catalogo": "riego"
