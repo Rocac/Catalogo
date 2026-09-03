@@ -770,7 +770,10 @@ function renderizarLogistica(logistica) {
   const campos = [
     {
       propiedad: "tamanoCaja",
-      etiqueta: "Tamaño de caja"
+      etiqueta:
+        embalajeNormalizado === "saco"
+          ? "Tamaño de saco"
+          : "Tamaño de caja"
     },
 
     // SOLO mostrar volumen si NO es bolsa de polietileno
