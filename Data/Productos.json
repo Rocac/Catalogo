@@ -7371,7 +7371,7 @@
     },
     "imagenes": [
       "Union corrediza 90mm.png",
-      "PLANO UNION UF.png"
+      "PLANO CORREDIZA.png"
     ]
   },
   {
@@ -7383,7 +7383,7 @@
     "tipo": "Codo",
     "serie": "Codo SP PN 10 ISO",
     "diametro": "63 mm",
-    "imagen": "Codo 63 X 45.png",
+    "imagen": "CODO 63 X 45.png",
     "descripcion": "Permite realizar cambios de dirección en sistemas de riego mediante una conexión segura y resistente.",
     "normas": [
       "PN 10 ISO según cuadro comercial; ficha técnica por confirmar"
@@ -7419,7 +7419,7 @@
     "catalogo": "riego",
     "imagenes": [
       "CODO 63 X 45.png",
-      "PLANO UNION UF.png"
+      "PLANO CODO X 45 SP.png"
     ]
   },
   {
@@ -7431,7 +7431,7 @@
     "tipo": "Codo",
     "serie": "Codo SP PN 10 ISO",
     "diametro": "75 mm",
-    "imagen": "Codo 75 X 45.png",
+    "imagen": "CODO 75 X 45.png",
     "descripcion": "Permite realizar cambios de dirección en sistemas de riego mediante una conexión segura y resistente.",
     "normas": [
       "PN 10 ISO según cuadro comercial; ficha técnica por confirmar"
@@ -7467,7 +7467,7 @@
     "catalogo": "riego",
     "imagenes": [
       "CODO 75 X 45.png",
-      "PLANO UNION UF.png"
+      "PLANO CODO X 45 SP.png"
     ]
   },
   {
@@ -7558,7 +7558,7 @@
     "catalogo": "riego",
     "imagenes": [
       "CODO 90 X 90.png",
-      "PLANO UNION UF.png"
+      "PLANO CODO X 90 SP.png"
     ]
   },
   {
@@ -7605,7 +7605,7 @@
     "catalogo": "riego",
     "imagenes": [
       "TEE 90.png",
-      "PLANO UNION UF.png"
+      "PLANO TEE SP.png"
     ]
   },
   {
@@ -7652,7 +7652,7 @@
     "catalogo": "riego",
     "imagenes": [
       "TEE 110.png",
-      "PLANO UNION UF.png"
+      "PLANO TEE SP.png"
     ]
   },
   {
@@ -7698,7 +7698,7 @@
     },
     "imagenes": [
       "Union corrediza 110.png",
-      "PLANO UNION UF.png"
+      "PLANO CORREDIZA.png"
     ],
     "catalogo": "riego"
   },
@@ -7712,7 +7712,7 @@
     "serie": "Unión corrediza PN 10 ISO",
     "diametro": "160 mm",
     "descripcion": "Permite unir tramos de tubería y facilita labores de montaje, mantenimiento o reparación en sistemas de riego.",
-    "imagen": "Union corrediza 160mm.png",
+    "imagen": "UNION CORREDIZA 160.png",
     "normas": [
       "PN 10 ISO según cuadro comercial; ficha técnica por confirmar"
     ],
@@ -7745,7 +7745,7 @@
     },
     "imagenes": [
       "UNION CORREDIZA 160.png",
-      "PLANO UNION UF.png"
+      "PLANO CORREDIZA.png"
     ],
     "catalogo": "riego"
   }
