@@ -7383,6 +7383,7 @@
     "tipo": "Codo",
     "serie": "Codo SP PN 10 ISO",
     "diametro": "63 mm",
+    "imagen": "Codo 63 X 45.png",
     "descripcion": "Permite realizar cambios de dirección en sistemas de riego mediante una conexión segura y resistente.",
     "normas": [
       "PN 10 ISO según cuadro comercial; ficha técnica por confirmar"
@@ -7415,7 +7416,11 @@
       "unidadesCaja": "Por confirmar",
       "embalaje": "Por confirmar"
     },
-    "catalogo": "riego"
+    "catalogo": "riego",
+    "imagenes": [
+      "CODO 63 X 45.png",
+      "PLANO UNION UF.png"
+    ]
   },
   {
     "id": 190,
@@ -7426,6 +7431,7 @@
     "tipo": "Codo",
     "serie": "Codo SP PN 10 ISO",
     "diametro": "75 mm",
+    "imagen": "Codo 75 X 45.png",
     "descripcion": "Permite realizar cambios de dirección en sistemas de riego mediante una conexión segura y resistente.",
     "normas": [
       "PN 10 ISO según cuadro comercial; ficha técnica por confirmar"
@@ -7458,7 +7464,11 @@
       "unidadesCaja": "Por confirmar",
       "embalaje": "Por confirmar"
     },
-    "catalogo": "riego"
+    "catalogo": "riego",
+    "imagenes": [
+      "CODO 75 X 45.png",
+      "PLANO UNION UF.png"
+    ]
   },
   {
     "id": 191,
@@ -7512,6 +7522,7 @@
     "tipo": "Codo",
     "serie": "Codo SP PN 10 ISO",
     "diametro": "90 mm",
+    "imagen": "CODO 90 X 90.png",
     "descripcion": "Permite realizar cambios de dirección en sistemas de riego mediante una conexión segura y resistente.",
     "normas": [
       "PN 10 ISO según cuadro comercial; ficha técnica por confirmar"
@@ -7544,7 +7555,11 @@
       "unidadesCaja": "Por confirmar",
       "embalaje": "Por confirmar"
     },
-    "catalogo": "riego"
+    "catalogo": "riego",
+    "imagenes": [
+      "CODO 90 X 90.png",
+      "PLANO UNION UF.png"
+    ]
   },
   {
     "id": 193,
@@ -7556,6 +7571,7 @@
     "serie": "Tee SP PN 10 ISO",
     "diametro": "90 mm",
     "descripcion": "Permite realizar derivaciones en sistemas de riego, distribuyendo el flujo hacia una conexión secundaria.",
+    "imagen": "TEE 90.png",
     "normas": [
       "PN 10 ISO según cuadro comercial; ficha técnica por confirmar"
     ],
@@ -7586,7 +7602,11 @@
       "unidadesCaja": "Por confirmar",
       "embalaje": "Por confirmar"
     },
-    "catalogo": "riego"
+    "catalogo": "riego",
+    "imagenes": [
+      "TEE 90.png",
+      "PLANO UNION UF.png"
+    ]
   },
   {
     "id": 194,
@@ -7598,6 +7618,7 @@
     "serie": "Tee SP PN 10 ISO",
     "diametro": "110 mm",
     "descripcion": "Permite realizar derivaciones en sistemas de riego, distribuyendo el flujo hacia una conexión secundaria.",
+    "imagen": "TEE 110.png",
     "normas": [
       "PN 10 ISO según cuadro comercial; ficha técnica por confirmar"
     ],
@@ -7628,7 +7649,11 @@
       "unidadesCaja": "Por confirmar",
       "embalaje": "Por confirmar"
     },
-    "catalogo": "riego"
+    "catalogo": "riego",
+    "imagenes": [
+      "TEE 110.png",
+      "PLANO UNION UF.png"
+    ]
   },
   {
     "id": 195,
@@ -7719,7 +7744,7 @@
       "embalaje": "Caja de cartón corrugado"
     },
     "imagenes": [
-      "Union corrediza 160mm.png",
+      "UNION CORREDIZA 160.png",
       "PLANO UNION UF.png"
     ],
     "catalogo": "riego"
