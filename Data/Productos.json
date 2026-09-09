@@ -7401,11 +7401,11 @@
     ],
     "tablaTecnica": {
       "A": "45°",
-      "D1": "Por confirmar",
-      "D2": "Por confirmar",
-      "E1": "Por confirmar",
-      "L1": "Por confirmar",
-      "L2": "Por confirmar"
+      "D1": "63.6",
+      "D2": "62.9",
+      "E1": "4.9",
+      "L1": "43",
+      "L2": "128.2"
     },
     "notaTecnica": "Producto incorporado a la sección Riego según el cuadro proporcionado. Código, imágenes, dimensiones y datos logísticos deben confirmarse antes de publicar.",
     "logistica": {
@@ -7449,11 +7449,11 @@
     ],
     "tablaTecnica": {
       "A": "45°",
-      "D1": "Por confirmar",
-      "D2": "Por confirmar",
-      "E1": "Por confirmar",
-      "L1": "Por confirmar",
-      "L2": "Por confirmar"
+      "D1": "75.7",
+      "D2": "74.9",
+      "E1": "6.2",
+      "L1": "47",
+      "L2": "145.4"
     },
     "notaTecnica": "Producto incorporado a la sección Riego según el cuadro proporcionado. Código, imágenes, dimensiones y datos logísticos deben confirmarse antes de publicar.",
     "logistica": {
@@ -7496,11 +7496,11 @@
     ],
     "tablaTecnica": {
       "A": "45°",
-      "D1": "Por confirmar",
-      "D2": "Por confirmar",
-      "E1": "Por confirmar",
-      "L1": "Por confirmar",
-      "L2": "Por confirmar"
+      "D1": "90.4",
+      "D2": "79.7",
+      "E1": "7.4",
+      "L1": "54",
+      "L2": "168.3"
     },
     "notaTecnica": "Producto incorporado a la sección Riego según el cuadro proporcionado. Código, imágenes, dimensiones y datos logísticos deben confirmarse antes de publicar.",
     "logistica": {
@@ -7540,11 +7540,11 @@
     ],
     "tablaTecnica": {
       "A": "90°",
-      "D1": "Por confirmar",
-      "D2": "Por confirmar",
-      "E1": "Por confirmar",
-      "L1": "Por confirmar",
-      "L2": "Por confirmar"
+      "D1": "63.4",
+      "D2": "62.7",
+      "E1": "5",
+      "L1": "43",
+      "L2": "114.4"
     },
     "notaTecnica": "Producto incorporado a la sección Riego según el cuadro proporcionado. Código, imágenes, dimensiones y datos logísticos deben confirmarse antes de publicar.",
     "logistica": {
@@ -7587,11 +7587,12 @@
       "Redes de distribución de agua para riego"
     ],
     "tablaTecnica": {
-      "D1": "Por confirmar",
-      "D2": "Por confirmar",
-      "E1": "Por confirmar",
-      "L1": "Por confirmar",
-      "L2": "Por confirmar"
+      "D1": "90.7",
+      "D2": "89.9",
+      "L1": "54",
+      "L2": "208",
+      "L3": "156.8",
+      "E1": "7.4"
     },
     "notaTecnica": "Producto incorporado a la sección Riego según el cuadro proporcionado. Código, imágenes, dimensiones y datos logísticos deben confirmarse antes de publicar.",
     "logistica": {
@@ -7634,11 +7635,12 @@
       "Redes de distribución de agua para riego"
     ],
     "tablaTecnica": {
-      "D1": "Por confirmar",
-      "D2": "Por confirmar",
-      "E1": "Por confirmar",
-      "L1": "Por confirmar",
-      "L2": "Por confirmar"
+      "D1": "110.8",
+      "D2": "109.9",
+      "L1": "64",
+      "L2": "245",
+      "L3": "186.2",
+      "E1": "8.3"
     },
     "notaTecnica": "Producto incorporado a la sección Riego según el cuadro proporcionado. Código, imágenes, dimensiones y datos logísticos deben confirmarse antes de publicar.",
     "logistica": {
